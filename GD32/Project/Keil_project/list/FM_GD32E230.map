@@ -4945,40 +4945,40 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-      2570         44         81          9         21       7042   app_debug.o
-        56          8          0          0          0       1182   app_wdt.o
-        24          0          0          0          0       1188   board_hw.o
-      1660        144        452          4         25       3505   button.o
-       742         76        352          0       1028       2488   debug.o
-      1444         36         20          0        284       5646   driveruart.o
-      2896        256        503          4       1234       6891   esp32datalayer.o
-      1116         44          0          0          0       7815   gd32e23x_adc.o
-       422         24          0          0          0       6508   gd32e23x_fmc.o
-       260         36          0          0          0       2546   gd32e23x_fwdgt.o
-       596          0          0          0          0       4235   gd32e23x_gpio.o
-       878         24          0          0          0       8734   gd32e23x_i2c.o
-        28          0          0          0          0        677   gd32e23x_it.o
-       272         20          0          0          0       3899   gd32e23x_misc.o
-      1220         48          0          0          0      11372   gd32e23x_rcu.o
-       634         52          0          0          0      17087   gd32e23x_timer.o
-       772         24          0          0          0      14243   gd32e23x_usart.o
-       872         88        237          1       1058       4643   gps.o
-      2190         36          0          0          0       3722   gpsutils.o
-       264         40        150          0          0       2431   hardwaremanager.o
-      7204        484       2355          4        334      12730   i2cfm.o
-       548         84        219          0         84       4447   initsystem.o
-      1006        112        424          0          0       2787   internalflash.o
-      2628        148        107          1         23       7234   led7.o
-      1040         16          0          0          0       5124   lwrb.o
-       566        100         37          0         28       2175   main.o
-       838         28         20          0        392      13924   segger_rtt.o
+      2570         44         81          9         21       7044   app_debug.o
+        56          8          0          0          0       1184   app_wdt.o
+        24          0          0          0          0       1190   board_hw.o
+      1660        144        452          4         25       3507   button.o
+       742         76        352          0       1028       2490   debug.o
+      1444         36         20          0        284       5648   driveruart.o
+      2896        256        503          4       1234       6893   esp32datalayer.o
+      1116         44          0          0          0       7817   gd32e23x_adc.o
+       422         24          0          0          0       6510   gd32e23x_fmc.o
+       260         36          0          0          0       2548   gd32e23x_fwdgt.o
+       596          0          0          0          0       4237   gd32e23x_gpio.o
+       878         24          0          0          0       8736   gd32e23x_i2c.o
+        28          0          0          0          0        679   gd32e23x_it.o
+       272         20          0          0          0       3901   gd32e23x_misc.o
+      1220         48          0          0          0      11374   gd32e23x_rcu.o
+       634         52          0          0          0      17089   gd32e23x_timer.o
+       772         24          0          0          0      14245   gd32e23x_usart.o
+       872         88        237          1       1058       4645   gps.o
+      2190         36          0          0          0       3724   gpsutils.o
+       264         40        150          0          0       2433   hardwaremanager.o
+      7204        484       2355          4        334      12732   i2cfm.o
+       548         84        219          0         84       4449   initsystem.o
+      1006        112        424          0          0       2789   internalflash.o
+      2628        148        107          1         23       7236   led7.o
+      1040         16          0          0          0       5126   lwrb.o
+       566        100         37          0         28       2177   main.o
+       838         28         20          0        392      13926   segger_rtt.o
         28          8        204          0       1024        680   startup_gd32e23x.o
-       404         56          0          4          0       1824   system_gd32e23x.o
-       264         16          0          0          0       2882   systick.o
-      1268         12          0          0          0       2974   utilities.o
+       404         56          0          4          0       1826   system_gd32e23x.o
+       264         16          0          0          0       2884   systick.o
+      1268         12          0          0          0       2976   utilities.o
 
     ----------------------------------------------------------------------
-     34748       2064       5196         36       5556     172635   Object Totals
+     34748       2064       5196         36       5556     172695   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         38          0          3          9         21          0   (incl. Padding)
 
@@ -5055,8 +5055,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     40770       2276       5330         44       5556     174059   Grand Totals
-     40770       2276       5330         44       5556     174059   ELF Image Totals
+     40770       2276       5330         44       5556     174119   Grand Totals
+     40770       2276       5330         44       5556     174119   ELF Image Totals
      40770       2276       5330         44          0          0   ROM Totals
 
 ==============================================================================
