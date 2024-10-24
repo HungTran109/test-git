@@ -96,6 +96,8 @@ int main(void)
     InitSystem();
     
     DEBUG_INFO("HELLO");
+    
+    DEBUG_WARN("Version release 1.0.0\r\n");
 
     while (1)
     {
