@@ -99,6 +99,9 @@ int main(void)
     
     DEBUG_WARN("Version release 1.0.0\r\n");
     DEBUG_WARN("Test amend 2\r\n");
+    DEBUG_WARN("Test amend 2\r\n");
+    DEBUG_WARN("Test amend 2\r\n");
+    DEBUG_WARN("Test amend 2\r\n");
     
 
     while (1)
