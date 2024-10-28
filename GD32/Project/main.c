@@ -100,10 +100,15 @@ int main(void)
     int baud = 921600;
     
     DEBUG_WARN("Version release 2.0.0\r\n");
-    DEBUG_WARN("Test amend 7\r\n");
-    DEBUG_WARN("Test amend 7\r\n");
-    DEBUG_WARN("Test amend 7\r\n");
-    DEBUG_WARN("Test amend 7\r\n");
+    DEBUG_WARN("Test amend 8\r\n");
+    DEBUG_WARN("Test amend 8\r\n");
+    DEBUG_WARN("Test amend 8\r\n");
+    DEBUG_WARN("Test amend 8\r\n");
+    
+    DEBUG_WARN("Test merge\r\n");
+    DEBUG_WARN("Test merge\r\n");
+    DEBUG_WARN("Test merge\r\n");
+    DEBUG_WARN("Test merge\r\n");
     
 
     while (1)
