@@ -91,6 +91,8 @@ int main(void)
     app_wdt_start();
     systick_config();
     
+    int Baud = 115200;
+    
     app_debug_init(sys_get_ms, (void*)0);
     app_debug_register_callback_print(rtt_debug_output);
     InitSystem();
@@ -113,32 +115,32 @@ int main(void)
 
     while (1)
     {
-        if(TimeOut10ms >= 1)
+        if(TimeOut10ms >= 10)
         {
             TimeOut10ms = 0;
             ProcessTimeout10ms();
         }
 
-        if(TimeOut100ms >= 10)
+        if(TimeOut100ms >= 100)
         {
             TimeOut100ms = 0;
             ProcessTimeout100ms();
             GPS_ManagerTick();
         }
         
-        if(TimeOut500ms >= 50)
+        if(TimeOut500ms >= 500)
         {
             TimeOut500ms = 0;
             ProcessTimeout500ms();
         }
 
-        if(TimeOut1000ms >= 100)
+        if(TimeOut1000ms >= 1000)
         {
             TimeOut1000ms = 0;
             ProcessTimeout1000ms();
             GPS_POWER_ON();
         }	
-        if (TimeOut3000ms >= 30)
+        if (TimeOut3000ms >= 300)
         {
             TimeOut3000ms = 0;
             RDS_Task();
