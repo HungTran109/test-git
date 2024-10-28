@@ -3769,315 +3769,315 @@ Image Symbol Table
     __arm_cp.4_0                             0x08008864   Number         4  lwrb.o(.text.lwrb_write)
     __arm_cp.4_1                             0x08008868   Number         4  lwrb.o(.text.lwrb_write)
     [Anonymous Symbol]                       0x0800886c   Section        0  main.o(.text.main)
-    __arm_cp.0_0                             0x08008a00   Number         4  main.o(.text.main)
-    __arm_cp.0_1                             0x08008a04   Number         4  main.o(.text.main)
-    __arm_cp.0_2                             0x08008a08   Number         4  main.o(.text.main)
-    __arm_cp.0_3                             0x08008a0c   Number         4  main.o(.text.main)
-    __arm_cp.0_4                             0x08008a10   Number         4  main.o(.text.main)
-    __arm_cp.0_5                             0x08008a14   Number         4  main.o(.text.main)
-    __arm_cp.0_6                             0x08008a18   Number         4  main.o(.text.main)
-    __arm_cp.0_7                             0x08008a1c   Number         4  main.o(.text.main)
-    __arm_cp.0_8                             0x08008a20   Number         4  main.o(.text.main)
-    __arm_cp.0_9                             0x08008a24   Number         4  main.o(.text.main)
-    __arm_cp.0_10                            0x08008a28   Number         4  main.o(.text.main)
-    __arm_cp.0_11                            0x08008a2c   Number         4  main.o(.text.main)
-    [Anonymous Symbol]                       0x08008a30   Section        0  gd32e23x_misc.o(.text.nvic_irq_enable)
-    [Anonymous Symbol]                       0x08008a64   Section        0  gd32e23x_misc.o(.text.nvic_vector_table_set)
-    __arm_cp.7_0                             0x08008a7c   Number         4  gd32e23x_misc.o(.text.nvic_vector_table_set)
-    __arm_cp.7_1                             0x08008a80   Number         4  gd32e23x_misc.o(.text.nvic_vector_table_set)
-    [Anonymous Symbol]                       0x08008a84   Section        0  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
-    __arm_cp.14_1                            0x08008c04   Number         4  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
-    __arm_cp.14_2                            0x08008c08   Number         4  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
-    [Anonymous Symbol]                       0x08008c0c   Section        0  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
-    __arm_cp.22_0                            0x08008c1c   Number         4  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
-    [Anonymous Symbol]                       0x08008c20   Section        0  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_0                            0x08008e80   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_1                            0x08008e84   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_2                            0x08008e88   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_3                            0x08008e8c   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_4                            0x08008e90   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_5                            0x08008e94   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_6                            0x08008e98   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_7                            0x08008e9c   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    __arm_cp.38_8                            0x08008ea0   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    [Anonymous Symbol]                       0x08008ea4   Section        0  gd32e23x_rcu.o(.text.rcu_flag_get)
-    [Anonymous Symbol]                       0x08008edc   Section        0  gd32e23x_rcu.o(.text.rcu_periph_clock_enable)
-    [Anonymous Symbol]                       0x08008f00   Section        0  gd32e23x_rcu.o(.text.rcu_periph_reset_disable)
-    [Anonymous Symbol]                       0x08008f24   Section        0  gd32e23x_rcu.o(.text.rcu_periph_reset_enable)
-    [Anonymous Symbol]                       0x08008f48   Section        0  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_0                            0x080090a0   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_1                            0x080090a4   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_2                            0x080090a8   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_3                            0x080090ac   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_4                            0x080090b0   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_5                            0x080090b4   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_6                            0x080090b8   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_7                            0x080090bc   Number         4  i2cfm.o(.text.rds_data_handle)
-    __arm_cp.29_8                            0x080090c0   Number         4  i2cfm.o(.text.rds_data_handle)
-    rtt_debug_output                         0x080090c5   Thumb Code    22  main.o(.text.rtt_debug_output)
-    [Anonymous Symbol]                       0x080090c4   Section        0  main.o(.text.rtt_debug_output)
-    [Anonymous Symbol]                       0x080090dc   Section        0  main.o(.text.sys_get_ms)
-    __arm_cp.1_0                             0x080090e4   Number         4  main.o(.text.sys_get_ms)
-    system_clock_72m_irc8m                   0x080090e9   Thumb Code   224  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    [Anonymous Symbol]                       0x080090e8   Section        0  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    __arm_cp.3_0                             0x080091b4   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    __arm_cp.3_1                             0x080091b8   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    __arm_cp.3_2                             0x080091bc   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    __arm_cp.3_3                             0x080091c0   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    __arm_cp.3_4                             0x080091c4   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
-    system_clock_config                      0x080091c9   Thumb Code     8  system_gd32e23x.o(.text.system_clock_config)
-    [Anonymous Symbol]                       0x080091c8   Section        0  system_gd32e23x.o(.text.system_clock_config)
-    [Anonymous Symbol]                       0x080091d0   Section        0  systick.o(.text.systick_config)
-    __arm_cp.0_0                             0x08009200   Number         4  systick.o(.text.systick_config)
-    [Anonymous Symbol]                       0x08009204   Section        0  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_1                             0x080092cc   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_7                             0x080092d0   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_8                             0x080092d4   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_9                             0x080092d8   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_10                            0x080092dc   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    __arm_cp.0_11                            0x080092e0   Number         4  gd32e23x_timer.o(.text.timer_deinit)
-    [Anonymous Symbol]                       0x080092e4   Section        0  gd32e23x_timer.o(.text.timer_enable)
-    [Anonymous Symbol]                       0x080092f8   Section        0  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_0                             0x080093dc   Number         4  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_1                             0x080093e0   Number         4  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_2                             0x080093e4   Number         4  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_3                             0x080093e8   Number         4  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_4                             0x080093ec   Number         4  gd32e23x_timer.o(.text.timer_init)
-    __arm_cp.2_5                             0x080093f0   Number         4  gd32e23x_timer.o(.text.timer_init)
-    [Anonymous Symbol]                       0x080093f4   Section        0  gd32e23x_timer.o(.text.timer_interrupt_enable)
-    [Anonymous Symbol]                       0x08009408   Section        0  gd32e23x_timer.o(.text.timer_interrupt_flag_clear)
-    [Anonymous Symbol]                       0x0800941c   Section        0  gd32e23x_timer.o(.text.timer_interrupt_flag_get)
-    [Anonymous Symbol]                       0x08009458   Section        0  gd32e23x_timer.o(.text.timer_struct_para_init)
-    __arm_cp.1_0                             0x0800947c   Number         4  gd32e23x_timer.o(.text.timer_struct_para_init)
-    [Anonymous Symbol]                       0x08009480   Section        0  gd32e23x_usart.o(.text.usart_baudrate_set)
-    __arm_cp.1_2                             0x0800952c   Number         4  gd32e23x_usart.o(.text.usart_baudrate_set)
-    [Anonymous Symbol]                       0x08009530   Section        0  gd32e23x_usart.o(.text.usart_data_receive)
-    [Anonymous Symbol]                       0x08009540   Section        0  gd32e23x_usart.o(.text.usart_data_transmit)
-    __arm_cp.18_0                            0x08009554   Number         4  gd32e23x_usart.o(.text.usart_data_transmit)
-    [Anonymous Symbol]                       0x08009558   Section        0  gd32e23x_usart.o(.text.usart_deinit)
-    __arm_cp.0_0                             0x0800959c   Number         4  gd32e23x_usart.o(.text.usart_deinit)
-    __arm_cp.0_1                             0x080095a0   Number         4  gd32e23x_usart.o(.text.usart_deinit)
-    __arm_cp.0_2                             0x080095a4   Number         4  gd32e23x_usart.o(.text.usart_deinit)
-    __arm_cp.0_3                             0x080095a8   Number         4  gd32e23x_usart.o(.text.usart_deinit)
-    [Anonymous Symbol]                       0x080095ac   Section        0  gd32e23x_usart.o(.text.usart_enable)
-    [Anonymous Symbol]                       0x080095be   Section        0  gd32e23x_usart.o(.text.usart_flag_clear)
-    [Anonymous Symbol]                       0x080095de   Section        0  gd32e23x_usart.o(.text.usart_flag_get)
-    [Anonymous Symbol]                       0x08009618   Section        0  gd32e23x_usart.o(.text.usart_interrupt_disable)
-    [Anonymous Symbol]                       0x0800963e   Section        0  gd32e23x_usart.o(.text.usart_interrupt_enable)
-    [Anonymous Symbol]                       0x08009664   Section        0  gd32e23x_usart.o(.text.usart_interrupt_flag_get)
-    [Anonymous Symbol]                       0x080096ca   Section        0  gd32e23x_usart.o(.text.usart_parity_config)
-    [Anonymous Symbol]                       0x080096f4   Section        0  gd32e23x_usart.o(.text.usart_receive_config)
-    [Anonymous Symbol]                       0x08009712   Section        0  gd32e23x_usart.o(.text.usart_stop_bit_set)
-    [Anonymous Symbol]                       0x0800973c   Section        0  gd32e23x_usart.o(.text.usart_transmit_config)
-    [Anonymous Symbol]                       0x0800975a   Section        0  gd32e23x_usart.o(.text.usart_word_length_set)
-    i.__0sprintf                             0x08009784   Section        0  printfa.o(i.__0sprintf)
-    i.__ARM_clz                              0x080097ac   Section        0  depilogue.o(i.__ARM_clz)
-    i.__read_errno                           0x080097dc   Section        0  errno.o(i.__read_errno)
-    i.__scatterload_copy                     0x080097e8   Section       14  handlers.o(i.__scatterload_copy)
-    i.__scatterload_null                     0x080097f6   Section        2  handlers.o(i.__scatterload_null)
-    i.__scatterload_zeroinit                 0x080097f8   Section       14  handlers.o(i.__scatterload_zeroinit)
-    i.__set_errno                            0x08009808   Section        0  errno.o(i.__set_errno)
-    _fp_digits                               0x08009815   Thumb Code   344  printfa.o(i._fp_digits)
-    i._fp_digits                             0x08009814   Section        0  printfa.o(i._fp_digits)
-    i._is_digit                              0x08009988   Section        0  scanf_fp.o(i._is_digit)
-    _printf_core                             0x08009999   Thumb Code  1754  printfa.o(i._printf_core)
-    i._printf_core                           0x08009998   Section        0  printfa.o(i._printf_core)
-    _printf_post_padding                     0x0800a085   Thumb Code    32  printfa.o(i._printf_post_padding)
-    i._printf_post_padding                   0x0800a084   Section        0  printfa.o(i._printf_post_padding)
-    _printf_pre_padding                      0x0800a0a5   Thumb Code    44  printfa.o(i._printf_pre_padding)
-    i._printf_pre_padding                    0x0800a0a4   Section        0  printfa.o(i._printf_pre_padding)
-    _sputc                                   0x0800a0d1   Thumb Code    10  printfa.o(i._sputc)
-    i._sputc                                 0x0800a0d0   Section        0  printfa.o(i._sputc)
-    i.atof                                   0x0800a0da   Section        0  atof.o(i.atof)
-    .constdata                               0x0800a106   Section      129  ctype_o.o(.constdata)
-    table                                    0x0800a188   Data           4  ctype_o.o(.constdata)
-    .constdata                               0x0800a188   Section        4  ctype_o.o(.constdata)
-    .L.str.2                                 0x0800a1e2   Data          43  main.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a1e2   Section        0  main.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a20d   Data          34  main.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a22f   Data          37  main.o(.rodata.str1.1)
-    .L.str                                   0x0800a254   Data          25  main.o(.rodata.str1.1)
-    .L.str.13                                0x0800a26d   Data          10  esp32datalayer.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a26d   Section        0  esp32datalayer.o(.rodata.str1.1)
-    .L.str.18                                0x0800a277   Data           4  esp32datalayer.o(.rodata.str1.1)
-    .L.str.22                                0x0800a27b   Data           8  esp32datalayer.o(.rodata.str1.1)
-    .L.str.17                                0x0800a283   Data           7  esp32datalayer.o(.rodata.str1.1)
-    .L.str.28                                0x0800a28a   Data           7  esp32datalayer.o(.rodata.str1.1)
-    .L.str.29                                0x0800a291   Data           7  esp32datalayer.o(.rodata.str1.1)
-    .L.str.30                                0x0800a298   Data           7  esp32datalayer.o(.rodata.str1.1)
-    .L.str.19                                0x0800a29f   Data           5  esp32datalayer.o(.rodata.str1.1)
-    .L.str.32                                0x0800a2a4   Data           5  esp32datalayer.o(.rodata.str1.1)
-    .L.str.31                                0x0800a2a9   Data          10  esp32datalayer.o(.rodata.str1.1)
-    .L.str.36                                0x0800a2b3   Data          12  esp32datalayer.o(.rodata.str1.1)
-    .L.str.25                                0x0800a2bf   Data           9  esp32datalayer.o(.rodata.str1.1)
-    .L.str.35                                0x0800a2c8   Data           8  esp32datalayer.o(.rodata.str1.1)
-    .L.str.33                                0x0800a2d0   Data          16  esp32datalayer.o(.rodata.str1.1)
-    .L.str.27                                0x0800a2d6   Data          10  esp32datalayer.o(.rodata.str1.1)
-    .L.str.26                                0x0800a2e0   Data          10  esp32datalayer.o(.rodata.str1.1)
-    .L.str.34                                0x0800a2ea   Data           9  esp32datalayer.o(.rodata.str1.1)
-    .L.str.23                                0x0800a2f3   Data           8  esp32datalayer.o(.rodata.str1.1)
-    .L.str.24                                0x0800a2fb   Data          14  esp32datalayer.o(.rodata.str1.1)
-    .L.str.14                                0x0800a309   Data          70  esp32datalayer.o(.rodata.str1.1)
-    .L.str.16                                0x0800a34f   Data          58  esp32datalayer.o(.rodata.str1.1)
-    .L.str.20                                0x0800a389   Data          40  esp32datalayer.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a3b1   Data           3  esp32datalayer.o(.rodata.str1.1)
-    .L.str.10                                0x0800a3b4   Data          19  esp32datalayer.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a3c7   Data          16  esp32datalayer.o(.rodata.str1.1)
-    .L.str.5                                 0x0800a3d7   Data          17  esp32datalayer.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a3e8   Data          17  esp32datalayer.o(.rodata.str1.1)
-    .L.str.6                                 0x0800a3f9   Data          13  esp32datalayer.o(.rodata.str1.1)
-    .L.str                                   0x0800a406   Data          26  esp32datalayer.o(.rodata.str1.1)
-    .L.str.9                                 0x0800a420   Data          15  esp32datalayer.o(.rodata.str1.1)
-    .L.str.8                                 0x0800a42f   Data           8  esp32datalayer.o(.rodata.str1.1)
-    .L.str.12                                0x0800a437   Data          12  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a443   Data          23  esp32datalayer.o(.rodata.str1.1)
-    .L.str.7                                 0x0800a451   Data           9  esp32datalayer.o(.rodata.str1.1)
-    .L.str.11                                0x0800a45a   Data          10  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.15                                0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a463   Data           1  esp32datalayer.o(.rodata.str1.1)
-    .L.str.13                                0x0800a464   Data           8  debug.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a464   Section        0  debug.o(.rodata.str1.1)
-    .L.str.10                                0x0800a46c   Data           7  debug.o(.rodata.str1.1)
-    .L.str.6                                 0x0800a473   Data           7  debug.o(.rodata.str1.1)
-    .L.str.14                                0x0800a47a   Data           9  debug.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a483   Data           6  debug.o(.rodata.str1.1)
-    .L.str.21                                0x0800a487   Data           2  debug.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a489   Data           3  debug.o(.rodata.str1.1)
-    .L.str.8                                 0x0800a489   Data           3  debug.o(.rodata.str1.1)
-    .L.str.9                                 0x0800a48c   Data           4  debug.o(.rodata.str1.1)
-    .L.str.5                                 0x0800a490   Data          41  debug.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a4b9   Data          39  debug.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a4e0   Data          39  debug.o(.rodata.str1.1)
-    .L.str.11                                0x0800a507   Data          51  debug.o(.rodata.str1.1)
-    .L.str.7                                 0x0800a53a   Data          56  debug.o(.rodata.str1.1)
-    .L.str                                   0x0800a572   Data          31  debug.o(.rodata.str1.1)
-    .L.str.12                                0x0800a591   Data          39  debug.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a5b8   Data          37  hardwaremanager.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a5b8   Section        0  hardwaremanager.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a5dd   Data          37  hardwaremanager.o(.rodata.str1.1)
-    .L.str                                   0x0800a602   Data          38  hardwaremanager.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a628   Data          38  hardwaremanager.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a64e   Data          62  initsystem.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a64e   Section        0  initsystem.o(.rodata.str1.1)
-    .L.str.5                                 0x0800a64f   Data          61  initsystem.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a68c   Data          11  initsystem.o(.rodata.str1.1)
-    .L.str                                   0x0800a697   Data          16  initsystem.o(.rodata.str1.1)
-    .L.str.1                                 0x0800a6a7   Data          15  initsystem.o(.rodata.str1.1)
-    .L.str.6                                 0x0800a6b6   Data          20  initsystem.o(.rodata.str1.1)
-    .L.str.9                                 0x0800a6ca   Data          20  initsystem.o(.rodata.str1.1)
-    .L.str.7                                 0x0800a6de   Data          19  initsystem.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a6ee   Data           3  initsystem.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a6ee   Data           3  initsystem.o(.rodata.str1.1)
-    .L.str.11                                0x0800a6f1   Data           9  initsystem.o(.rodata.str1.1)
-    .L.str.10                                0x0800a6fa   Data          12  initsystem.o(.rodata.str1.1)
-    .L.str.8                                 0x0800a706   Data           9  initsystem.o(.rodata.str1.1)
-    .L.str.5                                 0x0800a70f   Data          41  button.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a70f   Section        0  button.o(.rodata.str1.1)
-    .L.str.4                                 0x0800a738   Data          42  button.o(.rodata.str1.1)
-    .L.str.3                                 0x0800a762   Data          39  button.o(.rodata.str1.1)
-    .L.str.2                                 0x0800a789   Data          40  button.o(.rodata.str1.1)
-    .L.str.7                                 0x0800a7b1   Data          41  button.o(.rodata.str1.1)
-    .L.str.6                                 0x0800a7da   Data          42  button.o(.rodata.str1.1)
-    .L.str.10                                0x0800a804   Data          43  button.o(.rodata.str1.1)
-    .L.str.9                                 0x0800a82f   Data          41  button.o(.rodata.str1.1)
-    .L.str.8                                 0x0800a858   Data          42  button.o(.rodata.str1.1)
-    .L.str.11                                0x0800a882   Data          37  button.o(.rodata.str1.1)
-    .L.str                                   0x0800a8a7   Data          44  button.o(.rodata.str1.1)
-    .L.str.20                                0x0800a8d3   Data          27  i2cfm.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800a8d3   Section        0  i2cfm.o(.rodata.str1.1)
-    .L.str.17                                0x0800a8ee   Data          33  i2cfm.o(.rodata.str1.1)
-    .L.str.13                                0x0800a90f   Data          17  i2cfm.o(.rodata.str1.1)
-    .L.str.23                                0x0800a920   Data          28  i2cfm.o(.rodata.str1.1)
-    .L.str.22                                0x0800a93c   Data          18  i2cfm.o(.rodata.str1.1)
-    .L.str.21                                0x0800a94e   Data          21  i2cfm.o(.rodata.str1.1)
-    .L.str.18                                0x0800a963   Data          19  i2cfm.o(.rodata.str1.1)
-    .L__FUNCTION__.FM_ReadReg                0x0800a976   Data          11  i2cfm.o(.rodata.str1.1)
-    .L.str.36                                0x0800a981   Data          43  i2cfm.o(.rodata.str1.1)
-    .L.str.39                                0x0800a9ac   Data          55  i2cfm.o(.rodata.str1.1)
-    .L.str.14                                0x0800a9e3   Data          48  i2cfm.o(.rodata.str1.1)
-    .L.str.5                                 0x0800aa13   Data          42  i2cfm.o(.rodata.str1.1)
-    .L.str.6                                 0x0800aa3d   Data          25  i2cfm.o(.rodata.str1.1)
-    .L.str.3                                 0x0800aa56   Data          34  i2cfm.o(.rodata.str1.1)
-    .L.str.37                                0x0800aa78   Data          39  i2cfm.o(.rodata.str1.1)
-    .L.str.16                                0x0800aa9f   Data          37  i2cfm.o(.rodata.str1.1)
-    .L.str.15                                0x0800aac4   Data          42  i2cfm.o(.rodata.str1.1)
-    .L.str                                   0x0800aaee   Data          46  i2cfm.o(.rodata.str1.1)
-    .L.str.35                                0x0800ab1c   Data          33  i2cfm.o(.rodata.str1.1)
-    .L.str.19                                0x0800ab1f   Data          32  i2cfm.o(.rodata.str1.1)
-    .L.str.34                                0x0800ab3d   Data          33  i2cfm.o(.rodata.str1.1)
-    .L.str.7                                 0x0800ab5e   Data          27  i2cfm.o(.rodata.str1.1)
-    .L.str.9                                 0x0800ab79   Data          43  i2cfm.o(.rodata.str1.1)
-    .L.str.28                                0x0800aba4   Data          58  i2cfm.o(.rodata.str1.1)
-    .L.str.25                                0x0800abde   Data          77  i2cfm.o(.rodata.str1.1)
-    .L.str.30                                0x0800ac2b   Data          78  i2cfm.o(.rodata.str1.1)
-    .L.str.26                                0x0800ac79   Data          78  i2cfm.o(.rodata.str1.1)
-    .L.str.31                                0x0800acc7   Data          79  i2cfm.o(.rodata.str1.1)
-    .L.str.32                                0x0800ad16   Data          75  i2cfm.o(.rodata.str1.1)
-    .L.str.33                                0x0800ad61   Data          75  i2cfm.o(.rodata.str1.1)
-    .L.str.27                                0x0800adac   Data          75  i2cfm.o(.rodata.str1.1)
-    .L.str.29                                0x0800adf7   Data          78  i2cfm.o(.rodata.str1.1)
-    .L.str.24                                0x0800ae45   Data          70  i2cfm.o(.rodata.str1.1)
-    .L.str.4                                 0x0800ae8b   Data          46  i2cfm.o(.rodata.str1.1)
-    .L.str.38                                0x0800aeb9   Data          76  i2cfm.o(.rodata.str1.1)
-    .L.str.8                                 0x0800af05   Data          35  i2cfm.o(.rodata.str1.1)
-    .L.str.12                                0x0800af28   Data          20  i2cfm.o(.rodata.str1.1)
-    .L.str.11                                0x0800af3c   Data          23  i2cfm.o(.rodata.str1.1)
-    .L.str.2                                 0x0800af53   Data          25  i2cfm.o(.rodata.str1.1)
-    .L.str.10                                0x0800af6c   Data          25  i2cfm.o(.rodata.str1.1)
-    .L.str.2                                 0x0800af85   Data          45  led7.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800af85   Section        0  led7.o(.rodata.str1.1)
-    .L.str                                   0x0800afb2   Data          36  led7.o(.rodata.str1.1)
-    .L.str.5                                 0x0800afd6   Data           5  internalflash.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800afd6   Section        0  internalflash.o(.rodata.str1.1)
-    .L.str                                   0x0800afdb   Data          54  internalflash.o(.rodata.str1.1)
-    .L.str.6                                 0x0800b011   Data          63  internalflash.o(.rodata.str1.1)
-    .L.str.3                                 0x0800b050   Data          49  internalflash.o(.rodata.str1.1)
-    .L.str.8                                 0x0800b081   Data          40  internalflash.o(.rodata.str1.1)
-    .L.str.7                                 0x0800b0a9   Data          53  internalflash.o(.rodata.str1.1)
-    .L.str.10                                0x0800b0de   Data          32  internalflash.o(.rodata.str1.1)
-    .L.str.9                                 0x0800b0fe   Data          36  internalflash.o(.rodata.str1.1)
-    .L.str.11                                0x0800b122   Data          45  internalflash.o(.rodata.str1.1)
-    .L.str.2                                 0x0800b14f   Data          47  internalflash.o(.rodata.str1.1)
-    .L.str.5                                 0x0800b17e   Data          52  gps.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800b17e   Section        0  gps.o(.rodata.str1.1)
-    .L.str.12                                0x0800b182   Data          49  internalflash.o(.rodata.str1.1)
-    .L.str                                   0x0800b1b2   Data           7  gps.o(.rodata.str1.1)
-    .L.str.1                                 0x0800b1b2   Data           7  gps.o(.rodata.str1.1)
-    .L.str.13                                0x0800b1b3   Data          60  internalflash.o(.rodata.str1.1)
-    .L.str                                   0x0800b1b9   Data           7  gps.o(.rodata.str1.1)
-    .L.str.1                                 0x0800b1b9   Data           7  gps.o(.rodata.str1.1)
-    .L.str.7                                 0x0800b1c0   Data          28  gps.o(.rodata.str1.1)
-    .L.str.8                                 0x0800b1dc   Data          28  gps.o(.rodata.str1.1)
-    .L.str.14                                0x0800b1ef   Data          49  internalflash.o(.rodata.str1.1)
-    .L.str.9                                 0x0800b1f8   Data          28  gps.o(.rodata.str1.1)
-    .L.str.6                                 0x0800b214   Data          29  gps.o(.rodata.str1.1)
-    .L.str.10                                0x0800b231   Data          34  gps.o(.rodata.str1.1)
-    .L.str.3                                 0x0800b253   Data          24  gps.o(.rodata.str1.1)
-    .L.str.2                                 0x0800b26b   Data           7  segger_rtt.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800b26b   Section        0  segger_rtt.o(.rodata.str1.1)
-    .L.str.1                                 0x0800b272   Data           4  segger_rtt.o(.rodata.str1.1)
-    .L.str                                   0x0800b276   Data           9  segger_rtt.o(.rodata.str1.1)
-    .L.str                                   0x0800b27f   Data           7  app_debug.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x0800b27f   Section        0  app_debug.o(.rodata.str1.1)
-    .L.str.1                                 0x0800b286   Data           3  app_debug.o(.rodata.str1.1)
-    .L.str.11                                0x0800b286   Data          37  app_debug.o(.rodata.str1.1)
-    .L.str.2                                 0x0800b289   Data           4  app_debug.o(.rodata.str1.1)
-    .L.str.3                                 0x0800b28d   Data           9  app_debug.o(.rodata.str1.1)
-    .L.str.4                                 0x0800b296   Data           4  app_debug.o(.rodata.str1.1)
-    .L.str.5                                 0x0800b29a   Data           2  app_debug.o(.rodata.str1.1)
-    .L.str.6                                 0x0800b29c   Data           3  app_debug.o(.rodata.str1.1)
-    .L.str.7                                 0x0800b29f   Data           2  app_debug.o(.rodata.str1.1)
-    .L.str.8                                 0x0800b2a1   Data           2  app_debug.o(.rodata.str1.1)
-    .L.str.9                                 0x0800b2a3   Data           3  app_debug.o(.rodata.str1.1)
-    .L.str.10                                0x0800b2ab   Data          37  app_debug.o(.rodata.str1.1)
-    .L.str.12                                0x0800b2f0   Data          17  app_debug.o(.rodata.str1.1)
+    __arm_cp.0_0                             0x080089a0   Number         4  main.o(.text.main)
+    __arm_cp.0_1                             0x080089a4   Number         4  main.o(.text.main)
+    __arm_cp.0_2                             0x080089a8   Number         4  main.o(.text.main)
+    __arm_cp.0_3                             0x080089ac   Number         4  main.o(.text.main)
+    __arm_cp.0_4                             0x080089b0   Number         4  main.o(.text.main)
+    __arm_cp.0_5                             0x080089b4   Number         4  main.o(.text.main)
+    __arm_cp.0_6                             0x080089b8   Number         4  main.o(.text.main)
+    __arm_cp.0_7                             0x080089bc   Number         4  main.o(.text.main)
+    __arm_cp.0_8                             0x080089c0   Number         4  main.o(.text.main)
+    __arm_cp.0_9                             0x080089c4   Number         4  main.o(.text.main)
+    __arm_cp.0_10                            0x080089c8   Number         4  main.o(.text.main)
+    __arm_cp.0_11                            0x080089cc   Number         4  main.o(.text.main)
+    [Anonymous Symbol]                       0x080089d0   Section        0  gd32e23x_misc.o(.text.nvic_irq_enable)
+    [Anonymous Symbol]                       0x08008a04   Section        0  gd32e23x_misc.o(.text.nvic_vector_table_set)
+    __arm_cp.7_0                             0x08008a1c   Number         4  gd32e23x_misc.o(.text.nvic_vector_table_set)
+    __arm_cp.7_1                             0x08008a20   Number         4  gd32e23x_misc.o(.text.nvic_vector_table_set)
+    [Anonymous Symbol]                       0x08008a24   Section        0  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
+    __arm_cp.14_1                            0x08008ba4   Number         4  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
+    __arm_cp.14_2                            0x08008ba8   Number         4  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
+    [Anonymous Symbol]                       0x08008bac   Section        0  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
+    __arm_cp.22_0                            0x08008bbc   Number         4  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
+    [Anonymous Symbol]                       0x08008bc0   Section        0  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_0                            0x08008e20   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_1                            0x08008e24   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_2                            0x08008e28   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_3                            0x08008e2c   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_4                            0x08008e30   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_5                            0x08008e34   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_6                            0x08008e38   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_7                            0x08008e3c   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    __arm_cp.38_8                            0x08008e40   Number         4  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    [Anonymous Symbol]                       0x08008e44   Section        0  gd32e23x_rcu.o(.text.rcu_flag_get)
+    [Anonymous Symbol]                       0x08008e7c   Section        0  gd32e23x_rcu.o(.text.rcu_periph_clock_enable)
+    [Anonymous Symbol]                       0x08008ea0   Section        0  gd32e23x_rcu.o(.text.rcu_periph_reset_disable)
+    [Anonymous Symbol]                       0x08008ec4   Section        0  gd32e23x_rcu.o(.text.rcu_periph_reset_enable)
+    [Anonymous Symbol]                       0x08008ee8   Section        0  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_0                            0x08009040   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_1                            0x08009044   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_2                            0x08009048   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_3                            0x0800904c   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_4                            0x08009050   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_5                            0x08009054   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_6                            0x08009058   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_7                            0x0800905c   Number         4  i2cfm.o(.text.rds_data_handle)
+    __arm_cp.29_8                            0x08009060   Number         4  i2cfm.o(.text.rds_data_handle)
+    rtt_debug_output                         0x08009065   Thumb Code    22  main.o(.text.rtt_debug_output)
+    [Anonymous Symbol]                       0x08009064   Section        0  main.o(.text.rtt_debug_output)
+    [Anonymous Symbol]                       0x0800907c   Section        0  main.o(.text.sys_get_ms)
+    __arm_cp.1_0                             0x08009084   Number         4  main.o(.text.sys_get_ms)
+    system_clock_72m_irc8m                   0x08009089   Thumb Code   224  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    [Anonymous Symbol]                       0x08009088   Section        0  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    __arm_cp.3_0                             0x08009154   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    __arm_cp.3_1                             0x08009158   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    __arm_cp.3_2                             0x0800915c   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    __arm_cp.3_3                             0x08009160   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    __arm_cp.3_4                             0x08009164   Number         4  system_gd32e23x.o(.text.system_clock_72m_irc8m)
+    system_clock_config                      0x08009169   Thumb Code     8  system_gd32e23x.o(.text.system_clock_config)
+    [Anonymous Symbol]                       0x08009168   Section        0  system_gd32e23x.o(.text.system_clock_config)
+    [Anonymous Symbol]                       0x08009170   Section        0  systick.o(.text.systick_config)
+    __arm_cp.0_0                             0x080091a0   Number         4  systick.o(.text.systick_config)
+    [Anonymous Symbol]                       0x080091a4   Section        0  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_1                             0x0800926c   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_7                             0x08009270   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_8                             0x08009274   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_9                             0x08009278   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_10                            0x0800927c   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    __arm_cp.0_11                            0x08009280   Number         4  gd32e23x_timer.o(.text.timer_deinit)
+    [Anonymous Symbol]                       0x08009284   Section        0  gd32e23x_timer.o(.text.timer_enable)
+    [Anonymous Symbol]                       0x08009298   Section        0  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_0                             0x0800937c   Number         4  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_1                             0x08009380   Number         4  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_2                             0x08009384   Number         4  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_3                             0x08009388   Number         4  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_4                             0x0800938c   Number         4  gd32e23x_timer.o(.text.timer_init)
+    __arm_cp.2_5                             0x08009390   Number         4  gd32e23x_timer.o(.text.timer_init)
+    [Anonymous Symbol]                       0x08009394   Section        0  gd32e23x_timer.o(.text.timer_interrupt_enable)
+    [Anonymous Symbol]                       0x080093a8   Section        0  gd32e23x_timer.o(.text.timer_interrupt_flag_clear)
+    [Anonymous Symbol]                       0x080093bc   Section        0  gd32e23x_timer.o(.text.timer_interrupt_flag_get)
+    [Anonymous Symbol]                       0x080093f8   Section        0  gd32e23x_timer.o(.text.timer_struct_para_init)
+    __arm_cp.1_0                             0x0800941c   Number         4  gd32e23x_timer.o(.text.timer_struct_para_init)
+    [Anonymous Symbol]                       0x08009420   Section        0  gd32e23x_usart.o(.text.usart_baudrate_set)
+    __arm_cp.1_2                             0x080094cc   Number         4  gd32e23x_usart.o(.text.usart_baudrate_set)
+    [Anonymous Symbol]                       0x080094d0   Section        0  gd32e23x_usart.o(.text.usart_data_receive)
+    [Anonymous Symbol]                       0x080094e0   Section        0  gd32e23x_usart.o(.text.usart_data_transmit)
+    __arm_cp.18_0                            0x080094f4   Number         4  gd32e23x_usart.o(.text.usart_data_transmit)
+    [Anonymous Symbol]                       0x080094f8   Section        0  gd32e23x_usart.o(.text.usart_deinit)
+    __arm_cp.0_0                             0x0800953c   Number         4  gd32e23x_usart.o(.text.usart_deinit)
+    __arm_cp.0_1                             0x08009540   Number         4  gd32e23x_usart.o(.text.usart_deinit)
+    __arm_cp.0_2                             0x08009544   Number         4  gd32e23x_usart.o(.text.usart_deinit)
+    __arm_cp.0_3                             0x08009548   Number         4  gd32e23x_usart.o(.text.usart_deinit)
+    [Anonymous Symbol]                       0x0800954c   Section        0  gd32e23x_usart.o(.text.usart_enable)
+    [Anonymous Symbol]                       0x0800955e   Section        0  gd32e23x_usart.o(.text.usart_flag_clear)
+    [Anonymous Symbol]                       0x0800957e   Section        0  gd32e23x_usart.o(.text.usart_flag_get)
+    [Anonymous Symbol]                       0x080095b8   Section        0  gd32e23x_usart.o(.text.usart_interrupt_disable)
+    [Anonymous Symbol]                       0x080095de   Section        0  gd32e23x_usart.o(.text.usart_interrupt_enable)
+    [Anonymous Symbol]                       0x08009604   Section        0  gd32e23x_usart.o(.text.usart_interrupt_flag_get)
+    [Anonymous Symbol]                       0x0800966a   Section        0  gd32e23x_usart.o(.text.usart_parity_config)
+    [Anonymous Symbol]                       0x08009694   Section        0  gd32e23x_usart.o(.text.usart_receive_config)
+    [Anonymous Symbol]                       0x080096b2   Section        0  gd32e23x_usart.o(.text.usart_stop_bit_set)
+    [Anonymous Symbol]                       0x080096dc   Section        0  gd32e23x_usart.o(.text.usart_transmit_config)
+    [Anonymous Symbol]                       0x080096fa   Section        0  gd32e23x_usart.o(.text.usart_word_length_set)
+    i.__0sprintf                             0x08009724   Section        0  printfa.o(i.__0sprintf)
+    i.__ARM_clz                              0x0800974c   Section        0  depilogue.o(i.__ARM_clz)
+    i.__read_errno                           0x0800977c   Section        0  errno.o(i.__read_errno)
+    i.__scatterload_copy                     0x08009788   Section       14  handlers.o(i.__scatterload_copy)
+    i.__scatterload_null                     0x08009796   Section        2  handlers.o(i.__scatterload_null)
+    i.__scatterload_zeroinit                 0x08009798   Section       14  handlers.o(i.__scatterload_zeroinit)
+    i.__set_errno                            0x080097a8   Section        0  errno.o(i.__set_errno)
+    _fp_digits                               0x080097b5   Thumb Code   344  printfa.o(i._fp_digits)
+    i._fp_digits                             0x080097b4   Section        0  printfa.o(i._fp_digits)
+    i._is_digit                              0x08009928   Section        0  scanf_fp.o(i._is_digit)
+    _printf_core                             0x08009939   Thumb Code  1754  printfa.o(i._printf_core)
+    i._printf_core                           0x08009938   Section        0  printfa.o(i._printf_core)
+    _printf_post_padding                     0x0800a025   Thumb Code    32  printfa.o(i._printf_post_padding)
+    i._printf_post_padding                   0x0800a024   Section        0  printfa.o(i._printf_post_padding)
+    _printf_pre_padding                      0x0800a045   Thumb Code    44  printfa.o(i._printf_pre_padding)
+    i._printf_pre_padding                    0x0800a044   Section        0  printfa.o(i._printf_pre_padding)
+    _sputc                                   0x0800a071   Thumb Code    10  printfa.o(i._sputc)
+    i._sputc                                 0x0800a070   Section        0  printfa.o(i._sputc)
+    i.atof                                   0x0800a07a   Section        0  atof.o(i.atof)
+    .constdata                               0x0800a0a6   Section      129  ctype_o.o(.constdata)
+    table                                    0x0800a128   Data           4  ctype_o.o(.constdata)
+    .constdata                               0x0800a128   Section        4  ctype_o.o(.constdata)
+    .L.str.2                                 0x0800a182   Data          43  main.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a182   Section        0  main.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a1ad   Data          34  main.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a1cf   Data          37  main.o(.rodata.str1.1)
+    .L.str                                   0x0800a1f4   Data          25  main.o(.rodata.str1.1)
+    .L.str.13                                0x0800a20d   Data          10  esp32datalayer.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a20d   Section        0  esp32datalayer.o(.rodata.str1.1)
+    .L.str.18                                0x0800a217   Data           4  esp32datalayer.o(.rodata.str1.1)
+    .L.str.22                                0x0800a21b   Data           8  esp32datalayer.o(.rodata.str1.1)
+    .L.str.17                                0x0800a223   Data           7  esp32datalayer.o(.rodata.str1.1)
+    .L.str.28                                0x0800a22a   Data           7  esp32datalayer.o(.rodata.str1.1)
+    .L.str.29                                0x0800a231   Data           7  esp32datalayer.o(.rodata.str1.1)
+    .L.str.30                                0x0800a238   Data           7  esp32datalayer.o(.rodata.str1.1)
+    .L.str.19                                0x0800a23f   Data           5  esp32datalayer.o(.rodata.str1.1)
+    .L.str.32                                0x0800a244   Data           5  esp32datalayer.o(.rodata.str1.1)
+    .L.str.31                                0x0800a249   Data          10  esp32datalayer.o(.rodata.str1.1)
+    .L.str.36                                0x0800a253   Data          12  esp32datalayer.o(.rodata.str1.1)
+    .L.str.25                                0x0800a25f   Data           9  esp32datalayer.o(.rodata.str1.1)
+    .L.str.35                                0x0800a268   Data           8  esp32datalayer.o(.rodata.str1.1)
+    .L.str.33                                0x0800a270   Data          16  esp32datalayer.o(.rodata.str1.1)
+    .L.str.27                                0x0800a276   Data          10  esp32datalayer.o(.rodata.str1.1)
+    .L.str.26                                0x0800a280   Data          10  esp32datalayer.o(.rodata.str1.1)
+    .L.str.34                                0x0800a28a   Data           9  esp32datalayer.o(.rodata.str1.1)
+    .L.str.23                                0x0800a293   Data           8  esp32datalayer.o(.rodata.str1.1)
+    .L.str.24                                0x0800a29b   Data          14  esp32datalayer.o(.rodata.str1.1)
+    .L.str.14                                0x0800a2a9   Data          70  esp32datalayer.o(.rodata.str1.1)
+    .L.str.16                                0x0800a2ef   Data          58  esp32datalayer.o(.rodata.str1.1)
+    .L.str.20                                0x0800a329   Data          40  esp32datalayer.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a351   Data           3  esp32datalayer.o(.rodata.str1.1)
+    .L.str.10                                0x0800a354   Data          19  esp32datalayer.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a367   Data          16  esp32datalayer.o(.rodata.str1.1)
+    .L.str.5                                 0x0800a377   Data          17  esp32datalayer.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a388   Data          17  esp32datalayer.o(.rodata.str1.1)
+    .L.str.6                                 0x0800a399   Data          13  esp32datalayer.o(.rodata.str1.1)
+    .L.str                                   0x0800a3a6   Data          26  esp32datalayer.o(.rodata.str1.1)
+    .L.str.9                                 0x0800a3c0   Data          15  esp32datalayer.o(.rodata.str1.1)
+    .L.str.8                                 0x0800a3cf   Data           8  esp32datalayer.o(.rodata.str1.1)
+    .L.str.12                                0x0800a3d7   Data          12  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a3e3   Data          23  esp32datalayer.o(.rodata.str1.1)
+    .L.str.7                                 0x0800a3f1   Data           9  esp32datalayer.o(.rodata.str1.1)
+    .L.str.11                                0x0800a3fa   Data          10  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.15                                0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a403   Data           1  esp32datalayer.o(.rodata.str1.1)
+    .L.str.13                                0x0800a404   Data           8  debug.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a404   Section        0  debug.o(.rodata.str1.1)
+    .L.str.10                                0x0800a40c   Data           7  debug.o(.rodata.str1.1)
+    .L.str.6                                 0x0800a413   Data           7  debug.o(.rodata.str1.1)
+    .L.str.14                                0x0800a41a   Data           9  debug.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a423   Data           6  debug.o(.rodata.str1.1)
+    .L.str.21                                0x0800a427   Data           2  debug.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a429   Data           3  debug.o(.rodata.str1.1)
+    .L.str.8                                 0x0800a429   Data           3  debug.o(.rodata.str1.1)
+    .L.str.9                                 0x0800a42c   Data           4  debug.o(.rodata.str1.1)
+    .L.str.5                                 0x0800a430   Data          41  debug.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a459   Data          39  debug.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a480   Data          39  debug.o(.rodata.str1.1)
+    .L.str.11                                0x0800a4a7   Data          51  debug.o(.rodata.str1.1)
+    .L.str.7                                 0x0800a4da   Data          56  debug.o(.rodata.str1.1)
+    .L.str                                   0x0800a512   Data          31  debug.o(.rodata.str1.1)
+    .L.str.12                                0x0800a531   Data          39  debug.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a558   Data          37  hardwaremanager.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a558   Section        0  hardwaremanager.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a57d   Data          37  hardwaremanager.o(.rodata.str1.1)
+    .L.str                                   0x0800a5a2   Data          38  hardwaremanager.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a5c8   Data          38  hardwaremanager.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a5ee   Data          62  initsystem.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a5ee   Section        0  initsystem.o(.rodata.str1.1)
+    .L.str.5                                 0x0800a5ef   Data          61  initsystem.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a62c   Data          11  initsystem.o(.rodata.str1.1)
+    .L.str                                   0x0800a637   Data          16  initsystem.o(.rodata.str1.1)
+    .L.str.1                                 0x0800a647   Data          15  initsystem.o(.rodata.str1.1)
+    .L.str.6                                 0x0800a656   Data          20  initsystem.o(.rodata.str1.1)
+    .L.str.9                                 0x0800a66a   Data          20  initsystem.o(.rodata.str1.1)
+    .L.str.7                                 0x0800a67e   Data          19  initsystem.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a68e   Data           3  initsystem.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a68e   Data           3  initsystem.o(.rodata.str1.1)
+    .L.str.11                                0x0800a691   Data           9  initsystem.o(.rodata.str1.1)
+    .L.str.10                                0x0800a69a   Data          12  initsystem.o(.rodata.str1.1)
+    .L.str.8                                 0x0800a6a6   Data           9  initsystem.o(.rodata.str1.1)
+    .L.str.5                                 0x0800a6af   Data          41  button.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a6af   Section        0  button.o(.rodata.str1.1)
+    .L.str.4                                 0x0800a6d8   Data          42  button.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a702   Data          39  button.o(.rodata.str1.1)
+    .L.str.2                                 0x0800a729   Data          40  button.o(.rodata.str1.1)
+    .L.str.7                                 0x0800a751   Data          41  button.o(.rodata.str1.1)
+    .L.str.6                                 0x0800a77a   Data          42  button.o(.rodata.str1.1)
+    .L.str.10                                0x0800a7a4   Data          43  button.o(.rodata.str1.1)
+    .L.str.9                                 0x0800a7cf   Data          41  button.o(.rodata.str1.1)
+    .L.str.8                                 0x0800a7f8   Data          42  button.o(.rodata.str1.1)
+    .L.str.11                                0x0800a822   Data          37  button.o(.rodata.str1.1)
+    .L.str                                   0x0800a847   Data          44  button.o(.rodata.str1.1)
+    .L.str.20                                0x0800a873   Data          27  i2cfm.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800a873   Section        0  i2cfm.o(.rodata.str1.1)
+    .L.str.17                                0x0800a88e   Data          33  i2cfm.o(.rodata.str1.1)
+    .L.str.13                                0x0800a8af   Data          17  i2cfm.o(.rodata.str1.1)
+    .L.str.23                                0x0800a8c0   Data          28  i2cfm.o(.rodata.str1.1)
+    .L.str.22                                0x0800a8dc   Data          18  i2cfm.o(.rodata.str1.1)
+    .L.str.21                                0x0800a8ee   Data          21  i2cfm.o(.rodata.str1.1)
+    .L.str.18                                0x0800a903   Data          19  i2cfm.o(.rodata.str1.1)
+    .L__FUNCTION__.FM_ReadReg                0x0800a916   Data          11  i2cfm.o(.rodata.str1.1)
+    .L.str.36                                0x0800a921   Data          43  i2cfm.o(.rodata.str1.1)
+    .L.str.39                                0x0800a94c   Data          55  i2cfm.o(.rodata.str1.1)
+    .L.str.14                                0x0800a983   Data          48  i2cfm.o(.rodata.str1.1)
+    .L.str.5                                 0x0800a9b3   Data          42  i2cfm.o(.rodata.str1.1)
+    .L.str.6                                 0x0800a9dd   Data          25  i2cfm.o(.rodata.str1.1)
+    .L.str.3                                 0x0800a9f6   Data          34  i2cfm.o(.rodata.str1.1)
+    .L.str.37                                0x0800aa18   Data          39  i2cfm.o(.rodata.str1.1)
+    .L.str.16                                0x0800aa3f   Data          37  i2cfm.o(.rodata.str1.1)
+    .L.str.15                                0x0800aa64   Data          42  i2cfm.o(.rodata.str1.1)
+    .L.str                                   0x0800aa8e   Data          46  i2cfm.o(.rodata.str1.1)
+    .L.str.35                                0x0800aabc   Data          33  i2cfm.o(.rodata.str1.1)
+    .L.str.19                                0x0800aabf   Data          32  i2cfm.o(.rodata.str1.1)
+    .L.str.34                                0x0800aadd   Data          33  i2cfm.o(.rodata.str1.1)
+    .L.str.7                                 0x0800aafe   Data          27  i2cfm.o(.rodata.str1.1)
+    .L.str.9                                 0x0800ab19   Data          43  i2cfm.o(.rodata.str1.1)
+    .L.str.28                                0x0800ab44   Data          58  i2cfm.o(.rodata.str1.1)
+    .L.str.25                                0x0800ab7e   Data          77  i2cfm.o(.rodata.str1.1)
+    .L.str.30                                0x0800abcb   Data          78  i2cfm.o(.rodata.str1.1)
+    .L.str.26                                0x0800ac19   Data          78  i2cfm.o(.rodata.str1.1)
+    .L.str.31                                0x0800ac67   Data          79  i2cfm.o(.rodata.str1.1)
+    .L.str.32                                0x0800acb6   Data          75  i2cfm.o(.rodata.str1.1)
+    .L.str.33                                0x0800ad01   Data          75  i2cfm.o(.rodata.str1.1)
+    .L.str.27                                0x0800ad4c   Data          75  i2cfm.o(.rodata.str1.1)
+    .L.str.29                                0x0800ad97   Data          78  i2cfm.o(.rodata.str1.1)
+    .L.str.24                                0x0800ade5   Data          70  i2cfm.o(.rodata.str1.1)
+    .L.str.4                                 0x0800ae2b   Data          46  i2cfm.o(.rodata.str1.1)
+    .L.str.38                                0x0800ae59   Data          76  i2cfm.o(.rodata.str1.1)
+    .L.str.8                                 0x0800aea5   Data          35  i2cfm.o(.rodata.str1.1)
+    .L.str.12                                0x0800aec8   Data          20  i2cfm.o(.rodata.str1.1)
+    .L.str.11                                0x0800aedc   Data          23  i2cfm.o(.rodata.str1.1)
+    .L.str.2                                 0x0800aef3   Data          25  i2cfm.o(.rodata.str1.1)
+    .L.str.10                                0x0800af0c   Data          25  i2cfm.o(.rodata.str1.1)
+    .L.str.2                                 0x0800af25   Data          45  led7.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800af25   Section        0  led7.o(.rodata.str1.1)
+    .L.str                                   0x0800af52   Data          36  led7.o(.rodata.str1.1)
+    .L.str.5                                 0x0800af76   Data           5  internalflash.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800af76   Section        0  internalflash.o(.rodata.str1.1)
+    .L.str                                   0x0800af7b   Data          54  internalflash.o(.rodata.str1.1)
+    .L.str.6                                 0x0800afb1   Data          63  internalflash.o(.rodata.str1.1)
+    .L.str.3                                 0x0800aff0   Data          49  internalflash.o(.rodata.str1.1)
+    .L.str.8                                 0x0800b021   Data          40  internalflash.o(.rodata.str1.1)
+    .L.str.7                                 0x0800b049   Data          53  internalflash.o(.rodata.str1.1)
+    .L.str.10                                0x0800b07e   Data          32  internalflash.o(.rodata.str1.1)
+    .L.str.9                                 0x0800b09e   Data          36  internalflash.o(.rodata.str1.1)
+    .L.str.11                                0x0800b0c2   Data          45  internalflash.o(.rodata.str1.1)
+    .L.str.2                                 0x0800b0ef   Data          47  internalflash.o(.rodata.str1.1)
+    .L.str.5                                 0x0800b11e   Data          52  gps.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800b11e   Section        0  gps.o(.rodata.str1.1)
+    .L.str.12                                0x0800b122   Data          49  internalflash.o(.rodata.str1.1)
+    .L.str                                   0x0800b152   Data           7  gps.o(.rodata.str1.1)
+    .L.str.1                                 0x0800b152   Data           7  gps.o(.rodata.str1.1)
+    .L.str.13                                0x0800b153   Data          60  internalflash.o(.rodata.str1.1)
+    .L.str                                   0x0800b159   Data           7  gps.o(.rodata.str1.1)
+    .L.str.1                                 0x0800b159   Data           7  gps.o(.rodata.str1.1)
+    .L.str.7                                 0x0800b160   Data          28  gps.o(.rodata.str1.1)
+    .L.str.8                                 0x0800b17c   Data          28  gps.o(.rodata.str1.1)
+    .L.str.14                                0x0800b18f   Data          49  internalflash.o(.rodata.str1.1)
+    .L.str.9                                 0x0800b198   Data          28  gps.o(.rodata.str1.1)
+    .L.str.6                                 0x0800b1b4   Data          29  gps.o(.rodata.str1.1)
+    .L.str.10                                0x0800b1d1   Data          34  gps.o(.rodata.str1.1)
+    .L.str.3                                 0x0800b1f3   Data          24  gps.o(.rodata.str1.1)
+    .L.str.2                                 0x0800b20b   Data           7  segger_rtt.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800b20b   Section        0  segger_rtt.o(.rodata.str1.1)
+    .L.str.1                                 0x0800b212   Data           4  segger_rtt.o(.rodata.str1.1)
+    .L.str                                   0x0800b216   Data           9  segger_rtt.o(.rodata.str1.1)
+    .L.str                                   0x0800b21f   Data           7  app_debug.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x0800b21f   Section        0  app_debug.o(.rodata.str1.1)
+    .L.str.1                                 0x0800b226   Data           3  app_debug.o(.rodata.str1.1)
+    .L.str.11                                0x0800b226   Data          37  app_debug.o(.rodata.str1.1)
+    .L.str.2                                 0x0800b229   Data           4  app_debug.o(.rodata.str1.1)
+    .L.str.3                                 0x0800b22d   Data           9  app_debug.o(.rodata.str1.1)
+    .L.str.4                                 0x0800b236   Data           4  app_debug.o(.rodata.str1.1)
+    .L.str.5                                 0x0800b23a   Data           2  app_debug.o(.rodata.str1.1)
+    .L.str.6                                 0x0800b23c   Data           3  app_debug.o(.rodata.str1.1)
+    .L.str.7                                 0x0800b23f   Data           2  app_debug.o(.rodata.str1.1)
+    .L.str.8                                 0x0800b241   Data           2  app_debug.o(.rodata.str1.1)
+    .L.str.9                                 0x0800b243   Data           3  app_debug.o(.rodata.str1.1)
+    .L.str.10                                0x0800b24b   Data          37  app_debug.o(.rodata.str1.1)
+    .L.str.12                                0x0800b290   Data          17  app_debug.o(.rodata.str1.1)
     state                                    0x20000000   Data           4  strtok.o(.data)
     .data                                    0x20000000   Section        4  strtok.o(.data)
     _errno                                   0x20000004   Data           4  errno.o(.data)
@@ -4425,62 +4425,62 @@ Image Symbol Table
     lwrb_init                                0x08008579   Thumb Code    92  lwrb.o(.text.lwrb_init)
     lwrb_read                                0x080085d5   Thumb Code   332  lwrb.o(.text.lwrb_read)
     lwrb_write                               0x08008721   Thumb Code   332  lwrb.o(.text.lwrb_write)
-    main                                     0x0800886d   Thumb Code   452  main.o(.text.main)
-    nvic_irq_enable                          0x08008a31   Thumb Code    52  gd32e23x_misc.o(.text.nvic_irq_enable)
-    nvic_vector_table_set                    0x08008a65   Thumb Code    32  gd32e23x_misc.o(.text.nvic_vector_table_set)
-    rcu_adc_clock_config                     0x08008a85   Thumb Code   392  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
-    rcu_all_reset_flag_clear                 0x08008c0d   Thumb Code    20  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
-    rcu_clock_freq_get                       0x08008c21   Thumb Code   644  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
-    rcu_flag_get                             0x08008ea5   Thumb Code    56  gd32e23x_rcu.o(.text.rcu_flag_get)
-    rcu_periph_clock_enable                  0x08008edd   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_clock_enable)
-    rcu_periph_reset_disable                 0x08008f01   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_reset_disable)
-    rcu_periph_reset_enable                  0x08008f25   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_reset_enable)
-    rds_data_handle                          0x08008f49   Thumb Code   380  i2cfm.o(.text.rds_data_handle)
-    sys_get_ms                               0x080090dd   Thumb Code    12  main.o(.text.sys_get_ms)
-    systick_config                           0x080091d1   Thumb Code    52  systick.o(.text.systick_config)
-    timer_deinit                             0x08009205   Thumb Code   224  gd32e23x_timer.o(.text.timer_deinit)
-    timer_enable                             0x080092e5   Thumb Code    18  gd32e23x_timer.o(.text.timer_enable)
-    timer_init                               0x080092f9   Thumb Code   252  gd32e23x_timer.o(.text.timer_init)
-    timer_interrupt_enable                   0x080093f5   Thumb Code    20  gd32e23x_timer.o(.text.timer_interrupt_enable)
-    timer_interrupt_flag_clear               0x08009409   Thumb Code    20  gd32e23x_timer.o(.text.timer_interrupt_flag_clear)
-    timer_interrupt_flag_get                 0x0800941d   Thumb Code    60  gd32e23x_timer.o(.text.timer_interrupt_flag_get)
-    timer_struct_para_init                   0x08009459   Thumb Code    40  gd32e23x_timer.o(.text.timer_struct_para_init)
-    usart_baudrate_set                       0x08009481   Thumb Code   176  gd32e23x_usart.o(.text.usart_baudrate_set)
-    usart_data_receive                       0x08009531   Thumb Code    16  gd32e23x_usart.o(.text.usart_data_receive)
-    usart_data_transmit                      0x08009541   Thumb Code    24  gd32e23x_usart.o(.text.usart_data_transmit)
-    usart_deinit                             0x08009559   Thumb Code    84  gd32e23x_usart.o(.text.usart_deinit)
-    usart_enable                             0x080095ad   Thumb Code    18  gd32e23x_usart.o(.text.usart_enable)
-    usart_flag_clear                         0x080095bf   Thumb Code    32  gd32e23x_usart.o(.text.usart_flag_clear)
-    usart_flag_get                           0x080095df   Thumb Code    58  gd32e23x_usart.o(.text.usart_flag_get)
-    usart_interrupt_disable                  0x08009619   Thumb Code    38  gd32e23x_usart.o(.text.usart_interrupt_disable)
-    usart_interrupt_enable                   0x0800963f   Thumb Code    38  gd32e23x_usart.o(.text.usart_interrupt_enable)
-    usart_interrupt_flag_get                 0x08009665   Thumb Code   102  gd32e23x_usart.o(.text.usart_interrupt_flag_get)
-    usart_parity_config                      0x080096cb   Thumb Code    42  gd32e23x_usart.o(.text.usart_parity_config)
-    usart_receive_config                     0x080096f5   Thumb Code    30  gd32e23x_usart.o(.text.usart_receive_config)
-    usart_stop_bit_set                       0x08009713   Thumb Code    42  gd32e23x_usart.o(.text.usart_stop_bit_set)
-    usart_transmit_config                    0x0800973d   Thumb Code    30  gd32e23x_usart.o(.text.usart_transmit_config)
-    usart_word_length_set                    0x0800975b   Thumb Code    42  gd32e23x_usart.o(.text.usart_word_length_set)
-    __0sprintf                               0x08009785   Thumb Code    36  printfa.o(i.__0sprintf)
-    __1sprintf                               0x08009785   Thumb Code     0  printfa.o(i.__0sprintf)
-    __2sprintf                               0x08009785   Thumb Code     0  printfa.o(i.__0sprintf)
-    __c89sprintf                             0x08009785   Thumb Code     0  printfa.o(i.__0sprintf)
-    sprintf                                  0x08009785   Thumb Code     0  printfa.o(i.__0sprintf)
-    __ARM_clz                                0x080097ad   Thumb Code    46  depilogue.o(i.__ARM_clz)
-    __read_errno                             0x080097dd   Thumb Code     6  errno.o(i.__read_errno)
-    __scatterload_copy                       0x080097e9   Thumb Code    14  handlers.o(i.__scatterload_copy)
-    __scatterload_null                       0x080097f7   Thumb Code     2  handlers.o(i.__scatterload_null)
-    __scatterload_zeroinit                   0x080097f9   Thumb Code    14  handlers.o(i.__scatterload_zeroinit)
-    __set_errno                              0x08009809   Thumb Code     6  errno.o(i.__set_errno)
-    _is_digit                                0x08009989   Thumb Code    14  scanf_fp.o(i._is_digit)
-    atof                                     0x0800a0db   Thumb Code    44  atof.o(i.atof)
-    __ctype_table                            0x0800a106   Data         129  ctype_o.o(.constdata)
-    Code7SegTab                              0x0800a18c   Data          26  led7.o(.rodata.Code7SegTab)
-    DriverDebug                              0x0800a1a8   Data          12  debug.o(.rodata.DriverDebug)
-    DriverUART                               0x0800a1b4   Data          20  driveruart.o(.rodata.DriverUART)
-    WelcomeStr                               0x0800a1c8   Data          26  initsystem.o(.rodata.WelcomeStr)
-    sys_clk                                  0x0800b2d0   Data         641  i2cfm.o(.rodata.sys_clk)
-    Region$$Table$$Base                      0x0800b554   Number         0  anon$$obj.o(Region$$Table)
-    Region$$Table$$Limit                     0x0800b574   Number         0  anon$$obj.o(Region$$Table)
+    main                                     0x0800886d   Thumb Code   356  main.o(.text.main)
+    nvic_irq_enable                          0x080089d1   Thumb Code    52  gd32e23x_misc.o(.text.nvic_irq_enable)
+    nvic_vector_table_set                    0x08008a05   Thumb Code    32  gd32e23x_misc.o(.text.nvic_vector_table_set)
+    rcu_adc_clock_config                     0x08008a25   Thumb Code   392  gd32e23x_rcu.o(.text.rcu_adc_clock_config)
+    rcu_all_reset_flag_clear                 0x08008bad   Thumb Code    20  gd32e23x_rcu.o(.text.rcu_all_reset_flag_clear)
+    rcu_clock_freq_get                       0x08008bc1   Thumb Code   644  gd32e23x_rcu.o(.text.rcu_clock_freq_get)
+    rcu_flag_get                             0x08008e45   Thumb Code    56  gd32e23x_rcu.o(.text.rcu_flag_get)
+    rcu_periph_clock_enable                  0x08008e7d   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_clock_enable)
+    rcu_periph_reset_disable                 0x08008ea1   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_reset_disable)
+    rcu_periph_reset_enable                  0x08008ec5   Thumb Code    36  gd32e23x_rcu.o(.text.rcu_periph_reset_enable)
+    rds_data_handle                          0x08008ee9   Thumb Code   380  i2cfm.o(.text.rds_data_handle)
+    sys_get_ms                               0x0800907d   Thumb Code    12  main.o(.text.sys_get_ms)
+    systick_config                           0x08009171   Thumb Code    52  systick.o(.text.systick_config)
+    timer_deinit                             0x080091a5   Thumb Code   224  gd32e23x_timer.o(.text.timer_deinit)
+    timer_enable                             0x08009285   Thumb Code    18  gd32e23x_timer.o(.text.timer_enable)
+    timer_init                               0x08009299   Thumb Code   252  gd32e23x_timer.o(.text.timer_init)
+    timer_interrupt_enable                   0x08009395   Thumb Code    20  gd32e23x_timer.o(.text.timer_interrupt_enable)
+    timer_interrupt_flag_clear               0x080093a9   Thumb Code    20  gd32e23x_timer.o(.text.timer_interrupt_flag_clear)
+    timer_interrupt_flag_get                 0x080093bd   Thumb Code    60  gd32e23x_timer.o(.text.timer_interrupt_flag_get)
+    timer_struct_para_init                   0x080093f9   Thumb Code    40  gd32e23x_timer.o(.text.timer_struct_para_init)
+    usart_baudrate_set                       0x08009421   Thumb Code   176  gd32e23x_usart.o(.text.usart_baudrate_set)
+    usart_data_receive                       0x080094d1   Thumb Code    16  gd32e23x_usart.o(.text.usart_data_receive)
+    usart_data_transmit                      0x080094e1   Thumb Code    24  gd32e23x_usart.o(.text.usart_data_transmit)
+    usart_deinit                             0x080094f9   Thumb Code    84  gd32e23x_usart.o(.text.usart_deinit)
+    usart_enable                             0x0800954d   Thumb Code    18  gd32e23x_usart.o(.text.usart_enable)
+    usart_flag_clear                         0x0800955f   Thumb Code    32  gd32e23x_usart.o(.text.usart_flag_clear)
+    usart_flag_get                           0x0800957f   Thumb Code    58  gd32e23x_usart.o(.text.usart_flag_get)
+    usart_interrupt_disable                  0x080095b9   Thumb Code    38  gd32e23x_usart.o(.text.usart_interrupt_disable)
+    usart_interrupt_enable                   0x080095df   Thumb Code    38  gd32e23x_usart.o(.text.usart_interrupt_enable)
+    usart_interrupt_flag_get                 0x08009605   Thumb Code   102  gd32e23x_usart.o(.text.usart_interrupt_flag_get)
+    usart_parity_config                      0x0800966b   Thumb Code    42  gd32e23x_usart.o(.text.usart_parity_config)
+    usart_receive_config                     0x08009695   Thumb Code    30  gd32e23x_usart.o(.text.usart_receive_config)
+    usart_stop_bit_set                       0x080096b3   Thumb Code    42  gd32e23x_usart.o(.text.usart_stop_bit_set)
+    usart_transmit_config                    0x080096dd   Thumb Code    30  gd32e23x_usart.o(.text.usart_transmit_config)
+    usart_word_length_set                    0x080096fb   Thumb Code    42  gd32e23x_usart.o(.text.usart_word_length_set)
+    __0sprintf                               0x08009725   Thumb Code    36  printfa.o(i.__0sprintf)
+    __1sprintf                               0x08009725   Thumb Code     0  printfa.o(i.__0sprintf)
+    __2sprintf                               0x08009725   Thumb Code     0  printfa.o(i.__0sprintf)
+    __c89sprintf                             0x08009725   Thumb Code     0  printfa.o(i.__0sprintf)
+    sprintf                                  0x08009725   Thumb Code     0  printfa.o(i.__0sprintf)
+    __ARM_clz                                0x0800974d   Thumb Code    46  depilogue.o(i.__ARM_clz)
+    __read_errno                             0x0800977d   Thumb Code     6  errno.o(i.__read_errno)
+    __scatterload_copy                       0x08009789   Thumb Code    14  handlers.o(i.__scatterload_copy)
+    __scatterload_null                       0x08009797   Thumb Code     2  handlers.o(i.__scatterload_null)
+    __scatterload_zeroinit                   0x08009799   Thumb Code    14  handlers.o(i.__scatterload_zeroinit)
+    __set_errno                              0x080097a9   Thumb Code     6  errno.o(i.__set_errno)
+    _is_digit                                0x08009929   Thumb Code    14  scanf_fp.o(i._is_digit)
+    atof                                     0x0800a07b   Thumb Code    44  atof.o(i.atof)
+    __ctype_table                            0x0800a0a6   Data         129  ctype_o.o(.constdata)
+    Code7SegTab                              0x0800a12c   Data          26  led7.o(.rodata.Code7SegTab)
+    DriverDebug                              0x0800a148   Data          12  debug.o(.rodata.DriverDebug)
+    DriverUART                               0x0800a154   Data          20  driveruart.o(.rodata.DriverUART)
+    WelcomeStr                               0x0800a168   Data          26  initsystem.o(.rodata.WelcomeStr)
+    sys_clk                                  0x0800b270   Data         641  i2cfm.o(.rodata.sys_clk)
+    Region$$Table$$Base                      0x0800b4f4   Number         0  anon$$obj.o(Region$$Table)
+    Region$$Table$$Limit                     0x0800b514   Number         0  anon$$obj.o(Region$$Table)
     KT0935Timeout                            0x2000000c   Data           4  i2cfm.o(.data.KT0935Timeout)
     SystemCoreClock                          0x20000018   Data           4  system_gd32e23x.o(.data.SystemCoreClock)
     keyDownState                             0x2000001c   Data           1  button.o(.data.keyDownState)
@@ -4520,9 +4520,9 @@ Memory Map of the image
 
   Image Entry point : 0x080000cd
 
-  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x0000b5a8, Max: 0x00010000, ABSOLUTE)
+  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x0000b548, Max: 0x00010000, ABSOLUTE)
 
-    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x0000b574, Max: 0x00010000, ABSOLUTE)
+    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x0000b514, Max: 0x00010000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
@@ -4767,110 +4767,110 @@ Memory Map of the image
     0x08008578   0x08008578   0x0000005c   Code   RO         1745    .text.lwrb_init     lwrb.o
     0x080085d4   0x080085d4   0x0000014c   Code   RO         1757    .text.lwrb_read     lwrb.o
     0x08008720   0x08008720   0x0000014c   Code   RO         1753    .text.lwrb_write    lwrb.o
-    0x0800886c   0x0800886c   0x000001c4   Code   RO           19    .text.main          main.o
-    0x08008a30   0x08008a30   0x00000034   Code   RO          550    .text.nvic_irq_enable  gd32e23x_misc.o
-    0x08008a64   0x08008a64   0x00000020   Code   RO          564    .text.nvic_vector_table_set  gd32e23x_misc.o
-    0x08008a84   0x08008a84   0x00000188   Code   RO          641    .text.rcu_adc_clock_config  gd32e23x_rcu.o
-    0x08008c0c   0x08008c0c   0x00000014   Code   RO          657    .text.rcu_all_reset_flag_clear  gd32e23x_rcu.o
-    0x08008c20   0x08008c20   0x00000284   Code   RO          689    .text.rcu_clock_freq_get  gd32e23x_rcu.o
-    0x08008ea4   0x08008ea4   0x00000038   Code   RO          655    .text.rcu_flag_get  gd32e23x_rcu.o
-    0x08008edc   0x08008edc   0x00000024   Code   RO          615    .text.rcu_periph_clock_enable  gd32e23x_rcu.o
-    0x08008f00   0x08008f00   0x00000024   Code   RO          625    .text.rcu_periph_reset_disable  gd32e23x_rcu.o
-    0x08008f24   0x08008f24   0x00000024   Code   RO          623    .text.rcu_periph_reset_enable  gd32e23x_rcu.o
-    0x08008f48   0x08008f48   0x0000017c   Code   RO         1474    .text.rds_data_handle  i2cfm.o
-    0x080090c4   0x080090c4   0x00000016   Code   RO           23    .text.rtt_debug_output  main.o
-    0x080090da   0x080090da   0x00000002   PAD
-    0x080090dc   0x080090dc   0x0000000c   Code   RO           21    .text.sys_get_ms    main.o
-    0x080090e8   0x080090e8   0x000000e0   Code   RO           89    .text.system_clock_72m_irc8m  system_gd32e23x.o
-    0x080091c8   0x080091c8   0x00000008   Code   RO           85    .text.system_clock_config  system_gd32e23x.o
-    0x080091d0   0x080091d0   0x00000034   Code   RO           55    .text.systick_config  systick.o
-    0x08009204   0x08009204   0x000000e0   Code   RO          891    .text.timer_deinit  gd32e23x_timer.o
-    0x080092e4   0x080092e4   0x00000012   Code   RO          897    .text.timer_enable  gd32e23x_timer.o
-    0x080092f6   0x080092f6   0x00000002   PAD
-    0x080092f8   0x080092f8   0x000000fc   Code   RO          895    .text.timer_init    gd32e23x_timer.o
-    0x080093f4   0x080093f4   0x00000014   Code   RO          933    .text.timer_interrupt_enable  gd32e23x_timer.o
-    0x08009408   0x08009408   0x00000014   Code   RO          939    .text.timer_interrupt_flag_clear  gd32e23x_timer.o
-    0x0800941c   0x0800941c   0x0000003c   Code   RO          937    .text.timer_interrupt_flag_get  gd32e23x_timer.o
-    0x08009458   0x08009458   0x00000028   Code   RO          893    .text.timer_struct_para_init  gd32e23x_timer.o
-    0x08009480   0x08009480   0x000000b0   Code   RO         1046    .text.usart_baudrate_set  gd32e23x_usart.o
-    0x08009530   0x08009530   0x00000010   Code   RO         1082    .text.usart_data_receive  gd32e23x_usart.o
-    0x08009540   0x08009540   0x00000018   Code   RO         1080    .text.usart_data_transmit  gd32e23x_usart.o
-    0x08009558   0x08009558   0x00000054   Code   RO         1044    .text.usart_deinit  gd32e23x_usart.o
-    0x080095ac   0x080095ac   0x00000012   Code   RO         1054    .text.usart_enable  gd32e23x_usart.o
-    0x080095be   0x080095be   0x00000020   Code   RO         1180    .text.usart_flag_clear  gd32e23x_usart.o
-    0x080095de   0x080095de   0x0000003a   Code   RO         1178    .text.usart_flag_get  gd32e23x_usart.o
-    0x08009618   0x08009618   0x00000026   Code   RO         1184    .text.usart_interrupt_disable  gd32e23x_usart.o
-    0x0800963e   0x0800963e   0x00000026   Code   RO         1182    .text.usart_interrupt_enable  gd32e23x_usart.o
-    0x08009664   0x08009664   0x00000066   Code   RO         1188    .text.usart_interrupt_flag_get  gd32e23x_usart.o
-    0x080096ca   0x080096ca   0x0000002a   Code   RO         1048    .text.usart_parity_config  gd32e23x_usart.o
-    0x080096f4   0x080096f4   0x0000001e   Code   RO         1060    .text.usart_receive_config  gd32e23x_usart.o
-    0x08009712   0x08009712   0x0000002a   Code   RO         1052    .text.usart_stop_bit_set  gd32e23x_usart.o
-    0x0800973c   0x0800973c   0x0000001e   Code   RO         1058    .text.usart_transmit_config  gd32e23x_usart.o
-    0x0800975a   0x0800975a   0x0000002a   Code   RO         1050    .text.usart_word_length_set  gd32e23x_usart.o
-    0x08009784   0x08009784   0x00000028   Code   RO         1893    i.__0sprintf        mc_p.l(printfa.o)
-    0x080097ac   0x080097ac   0x0000002e   Code   RO         1981    i.__ARM_clz         mf_p.l(depilogue.o)
-    0x080097da   0x080097da   0x00000002   PAD
-    0x080097dc   0x080097dc   0x0000000c   Code   RO         1968    i.__read_errno      mc_p.l(errno.o)
-    0x080097e8   0x080097e8   0x0000000e   Code   RO         2008    i.__scatterload_copy  mc_p.l(handlers.o)
-    0x080097f6   0x080097f6   0x00000002   Code   RO         2009    i.__scatterload_null  mc_p.l(handlers.o)
-    0x080097f8   0x080097f8   0x0000000e   Code   RO         2010    i.__scatterload_zeroinit  mc_p.l(handlers.o)
-    0x08009806   0x08009806   0x00000002   PAD
-    0x08009808   0x08009808   0x0000000c   Code   RO         1969    i.__set_errno       mc_p.l(errno.o)
-    0x08009814   0x08009814   0x00000174   Code   RO         1898    i._fp_digits        mc_p.l(printfa.o)
-    0x08009988   0x08009988   0x0000000e   Code   RO         1994    i._is_digit         mc_p.l(scanf_fp.o)
-    0x08009996   0x08009996   0x00000002   PAD
-    0x08009998   0x08009998   0x000006ec   Code   RO         1899    i._printf_core      mc_p.l(printfa.o)
-    0x0800a084   0x0800a084   0x00000020   Code   RO         1900    i._printf_post_padding  mc_p.l(printfa.o)
-    0x0800a0a4   0x0800a0a4   0x0000002c   Code   RO         1901    i._printf_pre_padding  mc_p.l(printfa.o)
-    0x0800a0d0   0x0800a0d0   0x0000000a   Code   RO         1903    i._sputc            mc_p.l(printfa.o)
-    0x0800a0da   0x0800a0da   0x0000002c   Code   RO         1838    i.atof              m_ps.l(atof.o)
-    0x0800a106   0x0800a106   0x00000081   Data   RO         1845    .constdata          mc_p.l(ctype_o.o)
-    0x0800a187   0x0800a187   0x00000001   PAD
-    0x0800a188   0x0800a188   0x00000004   Data   RO         1846    .constdata          mc_p.l(ctype_o.o)
-    0x0800a18c   0x0800a18c   0x0000001a   Data   RO         1547    .rodata.Code7SegTab  led7.o
-    0x0800a1a6   0x0800a1a6   0x00000002   PAD
-    0x0800a1a8   0x0800a1a8   0x0000000c   Data   RO         1327    .rodata.DriverDebug  debug.o
-    0x0800a1b4   0x0800a1b4   0x00000014   Data   RO         1309    .rodata.DriverUART  driveruart.o
-    0x0800a1c8   0x0800a1c8   0x0000001a   Data   RO         1373    .rodata.WelcomeStr  initsystem.o
-    0x0800a1e2   0x0800a1e2   0x0000008b   Data   RO           42    .rodata.str1.1      main.o
-    0x0800a26d   0x0800a26d   0x000001f7   Data   RO         1262    .rodata.str1.1      esp32datalayer.o
-    0x0800a464   0x0800a464   0x00000154   Data   RO         1329    .rodata.str1.1      debug.o
-    0x0800a5b8   0x0800a5b8   0x00000096   Data   RO         1351    .rodata.str1.1      hardwaremanager.o
-    0x0800a64e   0x0800a64e   0x000000c1   Data   RO         1374    .rodata.str1.1      initsystem.o
-    0x0800a70f   0x0800a70f   0x000001c4   Data   RO         1406    .rodata.str1.1      button.o
-    0x0800a8d3   0x0800a8d3   0x000006b2   Data   RO         1486    .rodata.str1.1      i2cfm.o
-    0x0800af85   0x0800af85   0x00000051   Data   RO         1552    .rodata.str1.1      led7.o
-    0x0800afd6   0x0800afd6   0x000001a8   Data   RO         1582    .rodata.str1.1      internalflash.o
-    0x0800b17e   0x0800b17e   0x000000ed   Data   RO         1612    .rodata.str1.1      gps.o
-    0x0800b26b   0x0800b26b   0x00000014   Data   RO         1717    .rodata.str1.1      segger_rtt.o
-    0x0800b27f   0x0800b27f   0x00000051   Data   RO         1826    .rodata.str1.1      app_debug.o
-    0x0800b2d0   0x0800b2d0   0x00000281   Data   RO         1484    .rodata.sys_clk     i2cfm.o
-    0x0800b551   0x0800b551   0x00000003   PAD
-    0x0800b554   0x0800b554   0x00000020   Data   RO         2007    Region$$Table       anon$$obj.o
+    0x0800886c   0x0800886c   0x00000164   Code   RO           19    .text.main          main.o
+    0x080089d0   0x080089d0   0x00000034   Code   RO          550    .text.nvic_irq_enable  gd32e23x_misc.o
+    0x08008a04   0x08008a04   0x00000020   Code   RO          564    .text.nvic_vector_table_set  gd32e23x_misc.o
+    0x08008a24   0x08008a24   0x00000188   Code   RO          641    .text.rcu_adc_clock_config  gd32e23x_rcu.o
+    0x08008bac   0x08008bac   0x00000014   Code   RO          657    .text.rcu_all_reset_flag_clear  gd32e23x_rcu.o
+    0x08008bc0   0x08008bc0   0x00000284   Code   RO          689    .text.rcu_clock_freq_get  gd32e23x_rcu.o
+    0x08008e44   0x08008e44   0x00000038   Code   RO          655    .text.rcu_flag_get  gd32e23x_rcu.o
+    0x08008e7c   0x08008e7c   0x00000024   Code   RO          615    .text.rcu_periph_clock_enable  gd32e23x_rcu.o
+    0x08008ea0   0x08008ea0   0x00000024   Code   RO          625    .text.rcu_periph_reset_disable  gd32e23x_rcu.o
+    0x08008ec4   0x08008ec4   0x00000024   Code   RO          623    .text.rcu_periph_reset_enable  gd32e23x_rcu.o
+    0x08008ee8   0x08008ee8   0x0000017c   Code   RO         1474    .text.rds_data_handle  i2cfm.o
+    0x08009064   0x08009064   0x00000016   Code   RO           23    .text.rtt_debug_output  main.o
+    0x0800907a   0x0800907a   0x00000002   PAD
+    0x0800907c   0x0800907c   0x0000000c   Code   RO           21    .text.sys_get_ms    main.o
+    0x08009088   0x08009088   0x000000e0   Code   RO           89    .text.system_clock_72m_irc8m  system_gd32e23x.o
+    0x08009168   0x08009168   0x00000008   Code   RO           85    .text.system_clock_config  system_gd32e23x.o
+    0x08009170   0x08009170   0x00000034   Code   RO           55    .text.systick_config  systick.o
+    0x080091a4   0x080091a4   0x000000e0   Code   RO          891    .text.timer_deinit  gd32e23x_timer.o
+    0x08009284   0x08009284   0x00000012   Code   RO          897    .text.timer_enable  gd32e23x_timer.o
+    0x08009296   0x08009296   0x00000002   PAD
+    0x08009298   0x08009298   0x000000fc   Code   RO          895    .text.timer_init    gd32e23x_timer.o
+    0x08009394   0x08009394   0x00000014   Code   RO          933    .text.timer_interrupt_enable  gd32e23x_timer.o
+    0x080093a8   0x080093a8   0x00000014   Code   RO          939    .text.timer_interrupt_flag_clear  gd32e23x_timer.o
+    0x080093bc   0x080093bc   0x0000003c   Code   RO          937    .text.timer_interrupt_flag_get  gd32e23x_timer.o
+    0x080093f8   0x080093f8   0x00000028   Code   RO          893    .text.timer_struct_para_init  gd32e23x_timer.o
+    0x08009420   0x08009420   0x000000b0   Code   RO         1046    .text.usart_baudrate_set  gd32e23x_usart.o
+    0x080094d0   0x080094d0   0x00000010   Code   RO         1082    .text.usart_data_receive  gd32e23x_usart.o
+    0x080094e0   0x080094e0   0x00000018   Code   RO         1080    .text.usart_data_transmit  gd32e23x_usart.o
+    0x080094f8   0x080094f8   0x00000054   Code   RO         1044    .text.usart_deinit  gd32e23x_usart.o
+    0x0800954c   0x0800954c   0x00000012   Code   RO         1054    .text.usart_enable  gd32e23x_usart.o
+    0x0800955e   0x0800955e   0x00000020   Code   RO         1180    .text.usart_flag_clear  gd32e23x_usart.o
+    0x0800957e   0x0800957e   0x0000003a   Code   RO         1178    .text.usart_flag_get  gd32e23x_usart.o
+    0x080095b8   0x080095b8   0x00000026   Code   RO         1184    .text.usart_interrupt_disable  gd32e23x_usart.o
+    0x080095de   0x080095de   0x00000026   Code   RO         1182    .text.usart_interrupt_enable  gd32e23x_usart.o
+    0x08009604   0x08009604   0x00000066   Code   RO         1188    .text.usart_interrupt_flag_get  gd32e23x_usart.o
+    0x0800966a   0x0800966a   0x0000002a   Code   RO         1048    .text.usart_parity_config  gd32e23x_usart.o
+    0x08009694   0x08009694   0x0000001e   Code   RO         1060    .text.usart_receive_config  gd32e23x_usart.o
+    0x080096b2   0x080096b2   0x0000002a   Code   RO         1052    .text.usart_stop_bit_set  gd32e23x_usart.o
+    0x080096dc   0x080096dc   0x0000001e   Code   RO         1058    .text.usart_transmit_config  gd32e23x_usart.o
+    0x080096fa   0x080096fa   0x0000002a   Code   RO         1050    .text.usart_word_length_set  gd32e23x_usart.o
+    0x08009724   0x08009724   0x00000028   Code   RO         1893    i.__0sprintf        mc_p.l(printfa.o)
+    0x0800974c   0x0800974c   0x0000002e   Code   RO         1981    i.__ARM_clz         mf_p.l(depilogue.o)
+    0x0800977a   0x0800977a   0x00000002   PAD
+    0x0800977c   0x0800977c   0x0000000c   Code   RO         1968    i.__read_errno      mc_p.l(errno.o)
+    0x08009788   0x08009788   0x0000000e   Code   RO         2008    i.__scatterload_copy  mc_p.l(handlers.o)
+    0x08009796   0x08009796   0x00000002   Code   RO         2009    i.__scatterload_null  mc_p.l(handlers.o)
+    0x08009798   0x08009798   0x0000000e   Code   RO         2010    i.__scatterload_zeroinit  mc_p.l(handlers.o)
+    0x080097a6   0x080097a6   0x00000002   PAD
+    0x080097a8   0x080097a8   0x0000000c   Code   RO         1969    i.__set_errno       mc_p.l(errno.o)
+    0x080097b4   0x080097b4   0x00000174   Code   RO         1898    i._fp_digits        mc_p.l(printfa.o)
+    0x08009928   0x08009928   0x0000000e   Code   RO         1994    i._is_digit         mc_p.l(scanf_fp.o)
+    0x08009936   0x08009936   0x00000002   PAD
+    0x08009938   0x08009938   0x000006ec   Code   RO         1899    i._printf_core      mc_p.l(printfa.o)
+    0x0800a024   0x0800a024   0x00000020   Code   RO         1900    i._printf_post_padding  mc_p.l(printfa.o)
+    0x0800a044   0x0800a044   0x0000002c   Code   RO         1901    i._printf_pre_padding  mc_p.l(printfa.o)
+    0x0800a070   0x0800a070   0x0000000a   Code   RO         1903    i._sputc            mc_p.l(printfa.o)
+    0x0800a07a   0x0800a07a   0x0000002c   Code   RO         1838    i.atof              m_ps.l(atof.o)
+    0x0800a0a6   0x0800a0a6   0x00000081   Data   RO         1845    .constdata          mc_p.l(ctype_o.o)
+    0x0800a127   0x0800a127   0x00000001   PAD
+    0x0800a128   0x0800a128   0x00000004   Data   RO         1846    .constdata          mc_p.l(ctype_o.o)
+    0x0800a12c   0x0800a12c   0x0000001a   Data   RO         1547    .rodata.Code7SegTab  led7.o
+    0x0800a146   0x0800a146   0x00000002   PAD
+    0x0800a148   0x0800a148   0x0000000c   Data   RO         1327    .rodata.DriverDebug  debug.o
+    0x0800a154   0x0800a154   0x00000014   Data   RO         1309    .rodata.DriverUART  driveruart.o
+    0x0800a168   0x0800a168   0x0000001a   Data   RO         1373    .rodata.WelcomeStr  initsystem.o
+    0x0800a182   0x0800a182   0x0000008b   Data   RO           42    .rodata.str1.1      main.o
+    0x0800a20d   0x0800a20d   0x000001f7   Data   RO         1262    .rodata.str1.1      esp32datalayer.o
+    0x0800a404   0x0800a404   0x00000154   Data   RO         1329    .rodata.str1.1      debug.o
+    0x0800a558   0x0800a558   0x00000096   Data   RO         1351    .rodata.str1.1      hardwaremanager.o
+    0x0800a5ee   0x0800a5ee   0x000000c1   Data   RO         1374    .rodata.str1.1      initsystem.o
+    0x0800a6af   0x0800a6af   0x000001c4   Data   RO         1406    .rodata.str1.1      button.o
+    0x0800a873   0x0800a873   0x000006b2   Data   RO         1486    .rodata.str1.1      i2cfm.o
+    0x0800af25   0x0800af25   0x00000051   Data   RO         1552    .rodata.str1.1      led7.o
+    0x0800af76   0x0800af76   0x000001a8   Data   RO         1582    .rodata.str1.1      internalflash.o
+    0x0800b11e   0x0800b11e   0x000000ed   Data   RO         1612    .rodata.str1.1      gps.o
+    0x0800b20b   0x0800b20b   0x00000014   Data   RO         1717    .rodata.str1.1      segger_rtt.o
+    0x0800b21f   0x0800b21f   0x00000051   Data   RO         1826    .rodata.str1.1      app_debug.o
+    0x0800b270   0x0800b270   0x00000281   Data   RO         1484    .rodata.sys_clk     i2cfm.o
+    0x0800b4f1   0x0800b4f1   0x00000003   PAD
+    0x0800b4f4   0x0800b4f4   0x00000020   Data   RO         2007    Region$$Table       anon$$obj.o
 
 
-    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x0800b578, Size: 0x000015e0, Max: 0x00002000, ABSOLUTE)
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x0800b518, Size: 0x000015e0, Max: 0x00002000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
-    0x20000000   0x0800b578   0x00000004   Data   RW         1883    .data               mc_p.l(strtok.o)
-    0x20000004   0x0800b57c   0x00000004   Data   RW         1970    .data               mc_p.l(errno.o)
-    0x20000008   0x0800b580   0x00000001   Data   RW         1611    .data.GPSHasDataTimeout  gps.o
-    0x20000009   0x0800b581   0x00000003   PAD
-    0x2000000c   0x0800b584   0x00000004   Data   RW         1485    .data.KT0935Timeout  i2cfm.o
-    0x20000010   0x0800b588   0x00000001   Data   RW         1556    .data.Led7_Tick.g   led7.o
-    0x20000011   0x0800b589   0x00000003   PAD
-    0x20000014   0x0800b58c   0x00000004   Data   RW         1266    .data.ProcessNewBlackboxData.delay  esp32datalayer.o
-    0x20000018   0x0800b590   0x00000004   Data   RW           91    .data.SystemCoreClock  system_gd32e23x.o
-    0x2000001c   0x0800b594   0x00000001   Data   RW         1394    .data.keyDownState  button.o
-    0x2000001d   0x0800b595   0x00000001   Data   RW         1395    .data.keyLeftState  button.o
-    0x2000001e   0x0800b596   0x00000001   Data   RW         1396    .data.keyRightState  button.o
-    0x2000001f   0x0800b597   0x00000001   Data   RW         1393    .data.keyUpState    button.o
-    0x20000020   0x0800b598   0x00000004   Data   RW         1829    .data.lower_digits  app_debug.o
-    0x20000024   0x0800b59c   0x00000001   Data   RW         1825    .data.m_debug_level  app_debug.o
-    0x20000025   0x0800b59d   0x00000003   PAD
-    0x20000028   0x0800b5a0   0x00000004   Data   RW         1830    .data.upper_digits  app_debug.o
-    0x2000002c   0x0800b5a4   0x00000004   PAD
+    0x20000000   0x0800b518   0x00000004   Data   RW         1883    .data               mc_p.l(strtok.o)
+    0x20000004   0x0800b51c   0x00000004   Data   RW         1970    .data               mc_p.l(errno.o)
+    0x20000008   0x0800b520   0x00000001   Data   RW         1611    .data.GPSHasDataTimeout  gps.o
+    0x20000009   0x0800b521   0x00000003   PAD
+    0x2000000c   0x0800b524   0x00000004   Data   RW         1485    .data.KT0935Timeout  i2cfm.o
+    0x20000010   0x0800b528   0x00000001   Data   RW         1556    .data.Led7_Tick.g   led7.o
+    0x20000011   0x0800b529   0x00000003   PAD
+    0x20000014   0x0800b52c   0x00000004   Data   RW         1266    .data.ProcessNewBlackboxData.delay  esp32datalayer.o
+    0x20000018   0x0800b530   0x00000004   Data   RW           91    .data.SystemCoreClock  system_gd32e23x.o
+    0x2000001c   0x0800b534   0x00000001   Data   RW         1394    .data.keyDownState  button.o
+    0x2000001d   0x0800b535   0x00000001   Data   RW         1395    .data.keyLeftState  button.o
+    0x2000001e   0x0800b536   0x00000001   Data   RW         1396    .data.keyRightState  button.o
+    0x2000001f   0x0800b537   0x00000001   Data   RW         1393    .data.keyUpState    button.o
+    0x20000020   0x0800b538   0x00000004   Data   RW         1829    .data.lower_digits  app_debug.o
+    0x20000024   0x0800b53c   0x00000001   Data   RW         1825    .data.m_debug_level  app_debug.o
+    0x20000025   0x0800b53d   0x00000003   PAD
+    0x20000028   0x0800b540   0x00000004   Data   RW         1830    .data.upper_digits  app_debug.o
+    0x2000002c   0x0800b544   0x00000004   PAD
     0x20000030        -       0x00000004   Zero   RW         1401    .bss.ADCVolumeAvg   button.o
     0x20000034        -       0x00000404   Zero   RW         1263    .bss.BlackBoxBuffer  esp32datalayer.o
     0x20000438        -       0x00000002   Zero   RW         1502    .bss.Block_A        i2cfm.o
@@ -4883,7 +4883,7 @@ Memory Map of the image
     0x20000846        -       0x00000001   Zero   RW         1489    .bss.FM_Tick.lastRSSI  i2cfm.o
     0x20000847        -       0x00000001   Zero   RW         1488    .bss.FM_Tick.lastSNR  i2cfm.o
     0x20000848        -       0x00000001   Zero   RW         1615    .bss.GPSTimeout1000ms  gps.o
-    0x20000849   0x0800b5a4   0x00000003   PAD
+    0x20000849   0x0800b544   0x00000003   PAD
     0x2000084c        -       0x0000041c   Zero   RW         1610    .bss.GPS_Manager    gps.o
     0x20000c68        -       0x00000004   Zero   RW         1613    .bss.GPS_ManagerTick.counter  gps.o
     0x20000c6c        -       0x00000097   Zero   RW         1492    .bss.KT_Read_List   i2cfm.o
@@ -4893,7 +4893,7 @@ Memory Map of the image
     0x20000da0        -       0x00000001   Zero   RW         1554    .bss.Led7_DispLocalMode.blinkCount  led7.o
     0x20000da1        -       0x00000001   Zero   RW         1561    .bss.Led7_ScanSeg.periodNum  led7.o
     0x20000da2        -       0x00000001   Zero   RW         1557    .bss.Led7_Tick.b    led7.o
-    0x20000da3   0x0800b5a4   0x00000001   PAD
+    0x20000da3   0x0800b544   0x00000001   PAD
     0x20000da4        -       0x00000004   Zero   RW         1559    .bss.Led7_Tick.count  led7.o
     0x20000da8        -       0x00000004   Zero   RW         1560    .bss.Led7_Tick.integer_count  led7.o
     0x20000dac        -       0x00000001   Zero   RW         1555    .bss.Led7_Tick.r    led7.o
@@ -4914,7 +4914,7 @@ Memory Map of the image
     0x20000ddf        -       0x00000001   Zero   RW         1404    .bss.Volume_Tick.Timeout250ms  button.o
     0x20000de0        -       0x00000001   Zero   RW         1403    .bss.Volume_Tick.curVolumeLevel  button.o
     0x20000de1        -       0x00000001   Zero   RW         1402    .bss.Volume_Tick.oldVolumeLevel  button.o
-    0x20000de2   0x0800b5a4   0x00000002   PAD
+    0x20000de2   0x0800b544   0x00000002   PAD
     0x20000de4        -       0x00000048   Zero   RW         1714    .bss._SEGGER_RTT    segger_rtt.o
     0x20000e2c        -       0x00000040   Zero   RW         1719    .bss._acDownBuffer  segger_rtt.o
     0x20000e6c        -       0x00000100   Zero   RW         1718    .bss._acUpBuffer    segger_rtt.o
@@ -4923,12 +4923,12 @@ Memory Map of the image
     0x20000f70        -       0x00000001   Zero   RW         1259    .bss.esp32RebootTimeout  esp32datalayer.o
     0x20000f71        -       0x00000001   Zero   RW         1258    .bss.esp32RxMessageTimeout  esp32datalayer.o
     0x20000f72        -       0x000000c8   Zero   RW         1261    .bss.espMessage     esp32datalayer.o
-    0x2000103a   0x0800b5a4   0x00000002   PAD
+    0x2000103a   0x0800b544   0x00000002   PAD
     0x2000103c        -       0x00000004   Zero   RW         1260    .bss.esp_die_cnt    esp32datalayer.o
     0x20001040        -       0x00000001   Zero   RW         1550    .bss.isBlinkDisplay  led7.o
     0x20001041        -       0x00000004   Zero   RW         1494    .bss.isDataValid    i2cfm.o
     0x20001045        -       0x00000001   Zero   RW         1553    .bss.lastModeIndex  led7.o
-    0x20001046   0x0800b5a4   0x00000002   PAD
+    0x20001046   0x0800b544   0x00000002   PAD
     0x20001048        -       0x00000004   Zero   RW         1827    .bss.m_flush_cb     app_debug.o
     0x2000104c        -       0x00000004   Zero   RW         1822    .bss.m_get_ms       app_debug.o
     0x20001050        -       0x00000004   Zero   RW         1823    .bss.m_lock_cb      app_debug.o
@@ -4937,14 +4937,14 @@ Memory Map of the image
     0x20001074        -       0x00000100   Zero   RW         1308    .bss.m_tx_buffer    driveruart.o
     0x20001174        -       0x00000008   Zero   RW         1824    .bss.m_write_cb     app_debug.o
     0x2000117c        -       0x00000001   Zero   RW         1828    .bss.number_of_callback  app_debug.o
-    0x2000117d   0x0800b5a4   0x00000001   PAD
+    0x2000117d   0x0800b544   0x00000001   PAD
     0x2000117e        -       0x00000002   Zero   RW         1495    .bss.rds_data_handle.CountReadOff  i2cfm.o
     0x20001180        -       0x00000002   Zero   RW         1496    .bss.rds_data_handle.CountReadOn  i2cfm.o
     0x20001182        -       0x00000002   Zero   RW         1497    .bss.rds_data_handle.pre_wrong_value  i2cfm.o
     0x20001184        -       0x00000002   Zero   RW         1408    .bss.setupModeTimeout  button.o
-    0x20001186   0x0800b5a4   0x00000002   PAD
+    0x20001186   0x0800b544   0x00000002   PAD
     0x20001188        -       0x00000054   Zero   RW         1375    .bss.xSystem        initsystem.o
-    0x200011dc   0x0800b5a4   0x00000004   PAD
+    0x200011dc   0x0800b544   0x00000004   PAD
     0x200011e0        -       0x00000400   Zero   RW         1219    STACK               startup_gd32e23x.o
 
 
@@ -4980,7 +4980,7 @@ Image component sizes
       1006        112        424          0          0       2789   internalflash.o
       2628        148        107          1         23       7236   led7.o
       1040         16          0          0          0       5126   lwrb.o
-       814        116        139          0         28       2199   main.o
+       718        116        139          0         28       2252   main.o
        838         28         20          0        392      13926   segger_rtt.o
         28          8        204          0       1024        680   startup_gd32e23x.o
        404         56          0          4          0       1826   system_gd32e23x.o
@@ -4988,7 +4988,7 @@ Image component sizes
       1268         12          0          0          0       2976   utilities.o
 
     ----------------------------------------------------------------------
-     34996       2080       5300         36       5556     172717   Object Totals
+     34900       2080       5300         36       5556     172770   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         38          0          5          9         21          0   (incl. Padding)
 
@@ -5065,15 +5065,15 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     41018       2292       5434         44       5556     174141   Grand Totals
-     41018       2292       5434         44       5556     174141   ELF Image Totals
-     41018       2292       5434         44          0          0   ROM Totals
+     40922       2292       5434         44       5556     174194   Grand Totals
+     40922       2292       5434         44       5556     174194   ELF Image Totals
+     40922       2292       5434         44          0          0   ROM Totals
 
 ==============================================================================
 
-    Total RO  Size (Code + RO Data)                46452 (  45.36kB)
+    Total RO  Size (Code + RO Data)                46356 (  45.27kB)
     Total RW  Size (RW Data + ZI Data)              5600 (   5.47kB)
-    Total ROM Size (Code + RO Data + RW Data)      46496 (  45.41kB)
+    Total ROM Size (Code + RO Data + RW Data)      46400 (  45.31kB)
 
 ==============================================================================
 

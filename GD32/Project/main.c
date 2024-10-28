@@ -91,6 +91,8 @@ int main(void)
     app_wdt_start();
     systick_config();
     
+    int Baud = 9600;
+    
     app_debug_init(sys_get_ms, (void*)0);
     app_debug_register_callback_print(rtt_debug_output);
     InitSystem();
