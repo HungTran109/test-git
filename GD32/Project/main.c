@@ -99,7 +99,11 @@ int main(void)
     
     DEBUG_INFO("HELLO");
     
-    int baud = 921600;
+    DEBUG_WARN("Version release 3.0.0\r\n");
+    DEBUG_WARN("Test amend 123\r\n");
+    DEBUG_WARN("Test amend 123\r\n");
+    DEBUG_WARN("Test amend 123\r\n");
+    DEBUG_WARN("Test amend 123\r\n");
     
     DEBUG_WARN("Version release 2.0.0\r\n");
     DEBUG_WARN("Test amend 8\r\n");
