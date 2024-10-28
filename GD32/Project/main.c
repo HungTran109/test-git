@@ -113,32 +113,32 @@ int main(void)
 
     while (1)
     {
-        if(TimeOut10ms >= 10)
+        if(TimeOut10ms >= 100)
         {
             TimeOut10ms = 0;
             ProcessTimeout10ms();
         }
 
-        if(TimeOut100ms >= 100)
+        if(TimeOut100ms >= 1000)
         {
             TimeOut100ms = 0;
             ProcessTimeout100ms();
             GPS_ManagerTick();
         }
         
-        if(TimeOut500ms >= 500)
+        if(TimeOut500ms >= 5000)
         {
             TimeOut500ms = 0;
             ProcessTimeout500ms();
         }
 
-        if(TimeOut1000ms >= 1000)
+        if(TimeOut1000ms >= 10000)
         {
             TimeOut1000ms = 0;
             ProcessTimeout1000ms();
             GPS_POWER_ON();
         }	
-        if (TimeOut3000ms >= 300)
+        if (TimeOut3000ms >= 3000)
         {
             TimeOut3000ms = 0;
             RDS_Task();
