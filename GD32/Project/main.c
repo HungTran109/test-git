@@ -97,41 +97,43 @@ int main(void)
     
     DEBUG_INFO("HELLO");
     
-    DEBUG_WARN("Version release 1.0.0\r\n");
-    DEBUG_WARN("Test amend 2\r\n");
-    DEBUG_WARN("Test amend 2\r\n");
-    DEBUG_WARN("Test amend 2\r\n");
-    DEBUG_WARN("Test amend 2\r\n");
+    int baud = 921600;
+    
+    DEBUG_WARN("Version release 2.0.0\r\n");
+    DEBUG_WARN("Test amend 7\r\n");
+    DEBUG_WARN("Test amend 7\r\n");
+    DEBUG_WARN("Test amend 7\r\n");
+    DEBUG_WARN("Test amend 7\r\n");
     
 
     while (1)
     {
-        if(TimeOut10ms >= 10)
+        if(TimeOut10ms >= 1)
         {
             TimeOut10ms = 0;
             ProcessTimeout10ms();
         }
 
-        if(TimeOut100ms >= 100)
+        if(TimeOut100ms >= 10)
         {
             TimeOut100ms = 0;
             ProcessTimeout100ms();
             GPS_ManagerTick();
         }
         
-        if(TimeOut500ms >= 500)
+        if(TimeOut500ms >= 50)
         {
             TimeOut500ms = 0;
             ProcessTimeout500ms();
         }
 
-        if(TimeOut1000ms >= 1000)
+        if(TimeOut1000ms >= 100)
         {
             TimeOut1000ms = 0;
             ProcessTimeout1000ms();
             GPS_POWER_ON();
         }	
-        if (TimeOut3000ms >= 300)
+        if (TimeOut3000ms >= 30)
         {
             TimeOut3000ms = 0;
             RDS_Task();
