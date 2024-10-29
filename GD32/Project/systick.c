@@ -61,10 +61,10 @@ void systick_config(void)
 //    /* configure the systick handler priority */
     NVIC_SetPriority(SysTick_IRQn, 0x00U);
     
-        DEBUG_WARN("Test amend 4\r\n");
-    DEBUG_WARN("Test amend 4\r\n");
-    DEBUG_WARN("Test amend 4\r\n");
-    DEBUG_WARN("Test amend 4\r\n");
+//        DEBUG_WARN("Test amend 4\r\n");
+//    DEBUG_WARN("Test amend 4\r\n");
+//    DEBUG_WARN("Test amend 4\r\n");
+//    DEBUG_WARN("Test amend 4\r\n");
 }
 
 /*!
