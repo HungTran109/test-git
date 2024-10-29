@@ -156,6 +156,28 @@ int main(void)
                 xSystem.Debug->AddData(c);
             }
         }*/
+            DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
     }
 }
 
@@ -170,6 +192,10 @@ static void ProcessTimeout10ms(void)
         adc_volume = ADC_RDATA;
     }   
     Volume_Tick();
+        DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
 }
 
 static void ProcessTimeout100ms(void)
@@ -177,6 +203,10 @@ static void ProcessTimeout100ms(void)
     Hardware_XoaCoLoi();
     app_wdt_feed();
     Button_Tick();
+        DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
 }
 
 /*
