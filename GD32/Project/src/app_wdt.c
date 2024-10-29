@@ -21,6 +21,18 @@ void app_wdt_start(void)
     {
         rcu_all_reset_flag_clear();
     }
+        DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+        DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+        DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
+    DEBUG_WARN("Test amend 4\r\n");
 #endif
 }
 
